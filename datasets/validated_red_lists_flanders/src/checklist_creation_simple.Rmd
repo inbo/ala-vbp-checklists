@@ -31,22 +31,37 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-input_data <- read.csv(here::here("datasets", "MammalsofYugoslavia1992", "data", "raw", "small_mammals_yugoslavia.csv"))
+taxon <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "taxon.csv"))
 ```
+
+```{r}
+distribution <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "distribution.csv"))
+```
+
+```{r}
+description <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "description.csv"))
+```
+
+
 
 Preview data:
 
 ```{r}
-input_data %>% head(n = 5)
+taxon %>% head(n = 5)
 ```
 
-# Preprocessing
 
-## Tidy data
+# Join tables
 
-Clean data somewhat:
 
 ```{r}
-input_data %<>% remove_empty("rows")
+vbp_list_validated_red_lists_flanders <- inner_join(taxon, distribution, description, by = NULL)
+```
+
+
+
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
 ```
 
