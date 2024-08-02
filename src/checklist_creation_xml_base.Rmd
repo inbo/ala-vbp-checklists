@@ -1,0 +1,23 @@
+---
+title: "checklist_creation_xml"
+author: "Dimitri Brosens"
+date: "2024-08-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries:
+
+```{r}
+library(tidyverse)      # To do data science
+library(tidylog)        # To provide feedback on dplyr functions
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(janitor)        # To clean input data
+library(rgbif)          # To use GBIF services
+library(lubridate)      # to transform the date
+library(mapview)
+```
