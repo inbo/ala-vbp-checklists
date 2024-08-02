@@ -89,7 +89,8 @@ rename certain columns
 ```{r}
 vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
   "occurrenceStatus" = "occurrenceStatus.x",
-  "scientificName" = "scientificName...15"
+  "scientificName" = "scientificName...15",
+  "kingdom" = "kingdom...20"
 )
 ```
 
