@@ -1,0 +1,102 @@
+---
+title: "checklist_creation_vbp_unielijst"
+author: "Dimitri Brosens"
+date: "2024-08-01"
+output: html_document
+---
+
+# create species lists based on files that includes headers already
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries:
+
+```{r}
+library(tidyverse)      # To do data science
+library(tidylog)        # To provide feedback on dplyr functions
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(janitor)        # To clean input data
+library(readxl)         # To read Excel files
+library(digest)         # To generate hashes
+library(rgbif)          # To use GBIF services
+library(lubridate)      # to transform the date
+library(mapview)
+```
+
+# Read source data
+
+Create a data frame `input_data` from the source data:
+
+```{r}
+taxon <- read.delim2(here::here("datasets", "invasieve_uitheemse_soorten_unielijst", "data", "raw", "invasieve_uitheemse_soorten_unielijst.csv"), sep = ";")
+```
+
+
+
+Preview data:
+
+```{r}
+taxon %>% head(n = 5)
+```
+add kingdom
+
+```{r}
+taxon <- taxon %>% mutate(kingdom = case_when(taxon$taxongroep == "Vaatplanten" ~"Plantae",
+                                              taxon$taxongroep == "Vogels" ~"Animalia",
+                                              taxon$taxongroep == "Zoogdieren" ~"Animalia",
+                                              taxon$taxongroep == "Kreeftachtigen" ~"Animalia",
+                                              taxon$taxongroep == "Amfibieën" ~"Animalia",
+                                              taxon$taxongroep == "Wespen" ~"Animalia",
+                                              taxon$taxongroep == "Vissen" ~"Animalia",
+                                              taxon$taxongroep == "Reptielen" ~"Animalia",
+                                              taxon$taxongroep == "Platwormen" ~"Animalia",
+                                              taxon$taxongroep == "Wieren" ~"Plantae",
+                                              taxon$taxongroep == "Mieren" ~"Animalia",
+                                              taxon$taxongroep == "Weekdieren" ~"Animalia"
+                                              ))
+```
+add some informative columns
+
+# degreesOfEstablishment
+
+```{r}
+taxon %<>% mutate(degreesOfEstablishment = "invasive",
+                  listName = "Unielijst Invasieve exoten EU",
+                  IAScode = KenmerkwaardeCode)
+```
+
+
+
+
+rename certain columns (quick DwC mapping)
+
+```{r}
+taxon <- taxon %>% rename(
+  "scientificName" = "NaamWet",
+  "scientificNameAuthorship" = "Auteur",
+  "vernacularName" = "NaamNed_interpretatie",
+  
+)
+```
+
+
+remove obsolete columns
+
+```{r}
+taxon <- taxon %>% select(
+                        -"NaamNed",
+                        -"LaatsteVersie",
+                        -"taxonlijstgroep")
+ 
+```
+
+
+
+
+```{r}
+write_csv(taxon, here::here("datasets", "invasieve_uitheemse_soorten_unielijst", "data", "processed", "vbp_unielijst_uitheemse_soorten.csv"), na = "")
+```
+
