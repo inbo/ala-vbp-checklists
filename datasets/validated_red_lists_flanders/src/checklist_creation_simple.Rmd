@@ -49,13 +49,48 @@ Preview data:
 ```{r}
 taxon %>% head(n = 5)
 ```
+```{r}
+description %>% head(n = 5)
+```
 
+```{r}
+distribution %>% head(n = 5)
+```
 
 # Join tables
 
 
 ```{r}
-vbp_list_validated_red_lists_flanders <- inner_join(taxon, distribution, description, by = NULL)
+vbp_list_validated_red_lists_flanders <- inner_join(taxon, distribution, by = 'taxonID')
+```
+
+```{r eval=FALSE, include=FALSE}
+vbp_list_validated_red_lists_flanders <- inner_join(vbp_list_validated_red_lists_flanders_a, description, by = 'taxonID')
+```
+
+```{r}
+vbp_list_validated_red_lists_flanders <- unique(vbp_list_validated_red_lists_flanders)
+```
+
+
+```{r}
+vbp_list_validated_red_lists_flanders %>% head(n = 5)
+```
+remove obsolete columns
+
+```{r}
+vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
+                        -"kingdom...1",
+                        -"scientificName...2")
+ 
+```
+rename certain columns
+
+```{r}
+vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
+  "occurrenceStatus" = "occurrenceStatus.x",
+  "scientificName" = "scientificName...15"
+)
 ```
 
 
