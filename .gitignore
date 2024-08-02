@@ -51,3 +51,6 @@ rsconnect/
 # DWC-files
 *.zip
 
+# CSV's
+
+/data/raw/
