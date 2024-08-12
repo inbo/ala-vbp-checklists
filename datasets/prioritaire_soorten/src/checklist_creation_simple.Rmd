@@ -1,0 +1,105 @@
+---
+title: "checklist_creation_vbp priority species Flanders "
+author: "Dimitri Brosens"
+date: "2024-08-01"
+output: html_document
+---
+
+# create species lists based on files that includes headers already
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries:
+
+```{r}
+library(tidyverse)      # To do data science
+library(tidylog)        # To provide feedback on dplyr functions
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(janitor)        # To clean input data
+library(readxl)         # To read Excel files
+library(digest)         # To generate hashes
+library(rgbif)          # To use GBIF services
+library(lubridate)      # to transform the date
+library(mapview)
+```
+
+# Read source data
+
+Create a data frame `input_data` from the source data:
+
+```{r}
+taxon <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "taxon.csv"))
+```
+
+```{r}
+distribution <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "distribution.csv"))
+```
+
+```{r}
+description <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "description.csv"))
+```
+
+
+
+Preview data:
+
+```{r}
+taxon %>% head(n = 5)
+```
+```{r}
+description %>% head(n = 5)
+```
+
+```{r}
+distribution %>% head(n = 5)
+```
+
+# Join tables
+
+
+```{r}
+vbp_list_validated_red_lists_flanders <- inner_join(taxon, distribution, by = 'taxonID')
+```
+
+```{r eval=FALSE, include=FALSE}
+vbp_list_validated_red_lists_flanders <- inner_join(vbp_list_validated_red_lists_flanders_a, description, by = 'taxonID')
+```
+
+```{r}
+vbp_list_validated_red_lists_flanders <- unique(vbp_list_validated_red_lists_flanders)
+```
+
+
+```{r}
+vbp_list_validated_red_lists_flanders %>% head(n = 5)
+```
+remove obsolete columns
+
+```{r}
+vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
+                        -"kingdom...1",
+                        -"scientificName...2",
+                        -"occurrenceStatus.y")
+ 
+```
+rename certain columns
+
+```{r}
+vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
+  "occurrenceStatus" = "occurrenceStatus.x",
+  "scientificName" = "scientificName...15",
+  "kingdom" = "kingdom...20"
+  
+)
+```
+
+
+
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
+```
+
