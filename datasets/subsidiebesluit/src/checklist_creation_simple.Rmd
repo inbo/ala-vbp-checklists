@@ -1,5 +1,5 @@
 ---
-title: "checklist_creation_vbp priority species Flanders "
+title: "checklist_creation_vbp subsidiebesluit "
 author: "Dimitri Brosens"
 date: "2024-08-01"
 output: html_document
@@ -31,7 +31,7 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon_core <- read.delim(here::here("datasets", "prioritaire_soorten", "data", "raw", "08_24_prioritaire_soorten_vlaanderen.csv"), sep = ";")
+taxon_core <- read.delim(here::here("datasets", "subsidiebesluit", "data", "raw", "subsidiebesluit.csv"), sep = ";")
 ```
 
 
