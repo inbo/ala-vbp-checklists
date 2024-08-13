@@ -1,0 +1,129 @@
+---
+title: "checklist_creation_vbp priority species Flanders "
+author: "Dimitri Brosens"
+date: "2024-08-01"
+output: html_document
+---
+
+# create species lists based on files that includes headers already
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries:
+
+```{r}
+library(tidyverse)      # To do data science
+library(tidylog)        # To provide feedback on dplyr functions
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(janitor)        # To clean input data
+library(readxl)         # To read Excel files
+library(digest)         # To generate hashes
+library(rgbif)          # To use GBIF services
+library(lubridate)      # to transform the date
+library(mapview)
+```
+
+# Read source data
+
+Create a data frame `input_data` from the source data:
+
+```{r}
+taxon_core <- read.delim(here::here("datasets", "prioritaire_soorten", "data", "raw", "08_24_prioritaire_soorten_vlaanderen.csv"), sep = ";")
+```
+
+
+Preview data:
+
+```{r}
+taxon_core %>% head(n = 5)
+```
+
+
+remove obsolete columns
+
+```{r}
+taxon_core <- taxon_core %>% select(
+                        -"KenmerkCode",
+                        -"Kenmerk",
+                        -"KenmerkwaardeCode",
+                        -"Kenmerkwaarde")
+ 
+```
+# Map to Darwin Core
+
+# Fixed terms
+
+```{r}
+taxon_core <- taxon_core %>%
+  mutate(
+    dwc_language             = "en",
+    dwc_license              = paste0("http://creativecommons.org/publicdomain",
+                                      "/zero/1.0/"),
+    dwc_rightsHolder         = "INBO",
+    dwc_accessRights         = "http://www.inbo.be/en/norms-for-data-use",
+    dwc_institutionCode      = "INBO",
+    dwc_datasetName         = "Prioritaire soorten Vlaanderen",
+    dwc_ownerInstitutionCode = "INBO",
+    #dwc_kingdom              = "Animalia",
+    #dwc_nomenclaturalCode    = "ICZN",
+    dwc_taxonRank            = "species",
+    #dwc_eventType            = "Survey",
+    #dwc_samplingProtocol    = "...",
+    dwc_continent            = "Europe",
+    dwc_country              = "Belgium",
+    dwc_stateProvince        = "Flanders",
+    dwc_countryCode          = "BE",
+    #dwc_basisOfRecord        = "HumanObservation"
+  )
+```
+
+# mapped terms
+
+```{r}
+taxon_core <- taxon_core %>%
+  mutate(
+    "dwc_vernacularName"    = NaamNed,
+    "dwc_kingdom" = case_when(taxon_core$taxongroep == 'Vaatplanten' ~ "Plantae",
+                              TRUE ~ as.character('Animalia')),
+    "dwc_scientificName"   = NaamWet_interpretatie ,
+    "dwc_vernacularName"   = NaamNed_interpretatie ,
+    "dwc_scientificNameAuthorship" = Auteur
+    
+  )
+```
+
+## Post-processing
+
+Only keep the Darwin Core columns:
+
+```{r}
+taxon_core %<>% select(starts_with("dwc_"))
+```
+
+Drop the `dwc_` prefix:
+
+```{r}
+colnames(taxon_core ) <- str_remove(colnames(taxon_core ), "dwc_")
+```
+
+Preview data:
+
+```{r}
+taxon_core  %>% head()
+```
+
+
+
+
+
+
+
+
+
+```{r}
+write_csv(taxon_core, here::here("datasets", "prioritaire_soorten", "data", "processed", "vbp_prioritaire_soorten.csv"), na = "")
+```
+
