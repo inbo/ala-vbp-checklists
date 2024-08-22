@@ -47,9 +47,8 @@ remove obsolete columns
 ```{r}
 taxon_core <- taxon_core %>% select(
                         -"KenmerkCode",
-                        -"Kenmerk",
-                        -"KenmerkwaardeCode",
-                        -"Kenmerkwaarde")
+                        -"Kenmerk"
+                        )
  
 ```
 # Map to Darwin Core
@@ -65,7 +64,7 @@ taxon_core <- taxon_core %>%
     dwc_rightsHolder         = "INBO",
     dwc_accessRights         = "http://www.inbo.be/en/norms-for-data-use",
     dwc_institutionCode      = "INBO",
-    dwc_datasetName         = "Prioritaire soorten Vlaanderen",
+    dwc_datasetName         = "Subsidiebesluit",
     dwc_ownerInstitutionCode = "INBO",
     #dwc_kingdom              = "Animalia",
     #dwc_nomenclaturalCode    = "ICZN",
@@ -86,11 +85,13 @@ taxon_core <- taxon_core %>%
 taxon_core <- taxon_core %>%
   mutate(
     "dwc_vernacularName"    = NaamNed,
-    "dwc_kingdom" = case_when(taxon_core$taxongroep == 'Vaatplanten' ~ "Plantae",
-                              TRUE ~ as.character('Animalia')),
+    "dwc_kingdom"           = "Animalia",
+    #"dwc_kingdom" = case_when(taxon_core$taxongroep == 'Vaatplanten' ~ "Plantae",
+    #                          TRUE ~ as.character('Animalia')),
     "dwc_scientificName"   = NaamWet_interpretatie ,
     "dwc_vernacularName"   = NaamNed_interpretatie ,
-    "dwc_scientificNameAuthorship" = Auteur
+    "dwc_scientificNameAuthorship" = Auteur ,
+    "dwc_taxonlistgroup" = taxonlijstgroep ,
     
   )
 ```
@@ -124,6 +125,6 @@ taxon_core  %>% head()
 
 
 ```{r}
-write_csv(taxon_core, here::here("datasets", "prioritaire_soorten", "data", "processed", "vbp_prioritaire_soorten.csv"), na = "")
+write_csv(taxon_core, here::here("datasets", "subsidiebesluit", "data", "processed", "vbp_subsidiebesluit.csv"), na = "")
 ```
 
