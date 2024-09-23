@@ -31,24 +31,20 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/taxon.csv")
+taxon <- read.csv("https://raw.githubusercontent.com/trias-project/alien-birds-checklist/refs/heads/master/data/processed/taxon.csv")
 ```
 
 ```{r}
-distribution <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/distribution.csv")
+distribution <- read.csv("https://raw.githubusercontent.com/trias-project/alien-birds-checklist/refs/heads/master/data/processed/distribution.csv")
 ```
 
 ```{r}
-description <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/description.csv")
-```
-
-```{r}
-references <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/references.csv")
+description <- read.csv("https://raw.githubusercontent.com/trias-project/alien-birds-checklist/refs/heads/master/data/processed/description.csv")
 ```
 
 
 ```{r}
-speciesprofile <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/speciesprofile.csv")
+speciesprofile <- read.csv("https://raw.githubusercontent.com/trias-project/alien-birds-checklist/refs/heads/master/data/processed/speciesprofile.csv")
 ```
 
 
@@ -74,22 +70,22 @@ speciesprofile %>% head(n = 5)
 
 
 ```{r}
-interim_ad_hoca <- inner_join(taxon, distribution, description, by = 'taxonID')
+interim_alien_birds <- inner_join(taxon, distribution, description, by = 'taxonID')
 ```
 
 ```{r}
-vbp_ad_hoc_checklist <- left_join(interim_ad_hoca, speciesprofile, references, by = 'taxonID')
+alien_birds_checklist <- left_join(interim_alien_birds, speciesprofile, by = 'taxonID')
 ```
 
 
 ```{r}
-vbp_ad_hoc_checklist <- unique(vbp_ad_hoc_checklist)
+alien_birds_checklist <- unique(vbp_ad_hoc_checklist)
 ```
 
 
 
 
 ```{r}
-write_csv(vbp_ad_hoc_checklist, here::here("datasets", "ad_hoc_checklist_alien_species_belgium", "data", "processed", "vbp_ad_hoc_alien_checklist.csv"), na = "")
+write_csv(alien_birds_checklist, here::here("datasets", "checklist_alien_birds_belgium", "data", "processed", "alien_birds_checklist.csv"), na = "")
 ```
 
