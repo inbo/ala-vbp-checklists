@@ -1,5 +1,5 @@
 ---
-title: "checklist_creation_vbp"
+title: "checklist_creation_ad_hoc_alien_species"
 author: "Dimitri Brosens"
 date: "2024-08-01"
 output: html_document
@@ -31,15 +31,24 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "taxon.csv"))
+taxon <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/taxon.csv")
 ```
 
 ```{r}
-distribution <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "distribution.csv"))
+distribution <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/distribution.csv")
 ```
 
 ```{r}
-description <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "description.csv"))
+description <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/description.csv")
+```
+
+```{r}
+references <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/references.csv")
+```
+
+
+```{r}
+speciesprofile <- read.csv("https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/refs/heads/master/data/processed/speciesprofile.csv")
 ```
 
 
@@ -56,50 +65,31 @@ description %>% head(n = 5)
 ```{r}
 distribution %>% head(n = 5)
 ```
+```{r}
+speciesprofile %>% head(n = 5)
+```
+
 
 # Join tables
 
 
 ```{r}
-vbp_list_validated_red_lists_flanders <- inner_join(taxon, distribution, by = 'taxonID')
-```
-
-```{r eval=FALSE, include=FALSE}
-vbp_list_validated_red_lists_flanders <- inner_join(vbp_list_validated_red_lists_flanders_a, description, by = 'taxonID')
+interim_ad_hoca <- inner_join(taxon, distribution, description, by = 'taxonID')
 ```
 
 ```{r}
-vbp_list_validated_red_lists_flanders <- unique(vbp_list_validated_red_lists_flanders)
+vbp_ad_hoc_checklist <- left_join(interim_ad_hoca, speciesprofile, references, by = 'taxonID')
 ```
 
 
 ```{r}
-vbp_list_validated_red_lists_flanders %>% head(n = 5)
-```
-remove obsolete columns
-
-```{r}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
-                        -"kingdom...1",
-                        -"scientificName...2",
-                        -"occurrenceStatus.y")
- 
-```
-rename certain columns
-
-```{r}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
-  "occurrenceStatus" = "occurrenceStatus.x",
-  "scientificName" = "scientificName...15",
-  "kingdom" = "kingdom...20"
-  
-)
+vbp_ad_hoc_checklist <- unique(vbp_ad_hoc_checklist)
 ```
 
 
 
 
 ```{r}
-write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
+write_csv(vbp_ad_hoc_checklist, here::here("datasets", "ad_hoc_checklist_alien_species_belgium", "data", "processed", "vbp_ad_hoc_alien_checklist.csv"), na = "")
 ```
 
