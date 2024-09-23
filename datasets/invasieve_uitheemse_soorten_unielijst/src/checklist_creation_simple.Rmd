@@ -89,10 +89,14 @@ remove obsolete columns
 taxon <- taxon %>% select(
                         -"NaamNed",
                         -"LaatsteVersie",
-                        -"taxonlijstgroep")
+                        -"taxonlijstgroep",
+                        -"PublicatieJaar")
  
 ```
 
+```{r}
+taxon <- distinct(taxon, .keep_all = FALSE)
+```
 
 
 
