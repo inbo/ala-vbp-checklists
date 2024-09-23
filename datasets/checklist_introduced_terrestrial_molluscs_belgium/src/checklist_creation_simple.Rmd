@@ -31,27 +31,27 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/taxon.tsv")
+taxon <- read.delim("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/taxon.tsv")
 ```
 
 ```{r}
-distribution <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/distribution.tsv")
+distribution <- read.delim("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/distribution.tsv")
 ```
 
 ```{r}
-description <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/description.tsv")
+description <- read.delim("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/description.tsv")
 ```
 
 ```{r}
-speciesprofile <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/speciesprofile.tsv")
+speciesprofile <- read.delim("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/speciesprofile.tsv")
 ```
 
 ```{r}
-vernacularname <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/vernacularname.tsv")
+vernacularname <- read.delim("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/vernacularname.tsv")
 ```
 
 ```{r}
-references <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/references.tsv")
+references <- read.delim("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/references.tsv")
 ```
 
 
@@ -70,28 +70,46 @@ distribution %>% head(n = 5)
 ```{r}
 speciesprofile %>% head(n = 5)
 ```
-
+```{r}
+vernacularname %>% head(n = 5)
+```
 
 # Join tables
 
 
 ```{r}
-interim_herpetofauna_alien <- inner_join(taxon, distribution, description, by = 'taxonID')
+interim_molluscs_alien_a <- left_join(taxon, distribution, description, by = 'taxonID')
 ```
 
 ```{r}
-herpetofauna_alien <- left_join(interim_herpetofauna_alien, speciesprofile, references, by = 'taxonID')
+interim_molluscs_alien_b <- left_join(interim_molluscs_alien_a, speciesprofile,  by = 'taxonID')
 ```
 
 
 ```{r}
-vbp_ad_hoc_checklist <- unique(herpetofauna_alien)
+interim_molluscs_alien <- left_join(interim_molluscs_alien_b, vernacularname, references,  by = 'taxonID')
 ```
 
 
+```{r}
+vbp_molluscs_alien <- unique(interim_molluscs_alien)
+```
 
+remove obsolete columns
 
 ```{r}
-write_csv(vbp_ad_hoc_checklist, here::here("datasets", "checklist_alien_herpetofauna_belgium", "data", "processed", "vbp_alien_herpetofauna.csv"), na = "")
+interim_molluscs_alien <- interim_molluscs_alien %>% select(
+                        -"language.x")
+ 
+```
+rename certain columns
+
+```{r}
+interim_molluscs_alien <- interim_molluscs_alien %>% rename(
+  "language" = "language.y")
+```
+
+```{r}
+write_csv(vbp_molluscs_alien, here::here("datasets", "checklist_introduced_terrestrial_molluscs_belgium", "data", "processed", "vbp_molluscs_alien.csv"), na = "")
 ```
 
