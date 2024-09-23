@@ -1,5 +1,5 @@
 ---
-title: "checklist_creation_vbp"
+title: "checklist_creation_alien_molluscs"
 author: "Dimitri Brosens"
 date: "2024-08-01"
 output: html_document
@@ -31,17 +31,28 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "taxon.csv"))
+taxon <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/taxon.tsv")
 ```
 
 ```{r}
-distribution <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "distribution.csv"))
+distribution <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/distribution.tsv")
 ```
 
 ```{r}
-description <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "description.csv"))
+description <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/description.tsv")
 ```
 
+```{r}
+speciesprofile <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/speciesprofile.tsv")
+```
+
+```{r}
+vernacularname <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/vernacularname.tsv")
+```
+
+```{r}
+references <- read.csv("https://raw.githubusercontent.com/trias-project/alien-mollusca-checklist/refs/heads/master/data/processed/references.tsv")
+```
 
 
 Preview data:
@@ -56,50 +67,31 @@ description %>% head(n = 5)
 ```{r}
 distribution %>% head(n = 5)
 ```
+```{r}
+speciesprofile %>% head(n = 5)
+```
+
 
 # Join tables
 
 
 ```{r}
-vbp_list_validated_red_lists_flanders <- inner_join(taxon, distribution, by = 'taxonID')
-```
-
-```{r eval=FALSE, include=FALSE}
-vbp_list_validated_red_lists_flanders <- inner_join(vbp_list_validated_red_lists_flanders_a, description, by = 'taxonID')
+interim_herpetofauna_alien <- inner_join(taxon, distribution, description, by = 'taxonID')
 ```
 
 ```{r}
-vbp_list_validated_red_lists_flanders <- unique(vbp_list_validated_red_lists_flanders)
+herpetofauna_alien <- left_join(interim_herpetofauna_alien, speciesprofile, references, by = 'taxonID')
 ```
 
 
 ```{r}
-vbp_list_validated_red_lists_flanders %>% head(n = 5)
-```
-remove obsolete columns
-
-```{r}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
-                        -"kingdom...1",
-                        -"scientificName...2",
-                        -"occurrenceStatus.y")
- 
-```
-rename certain columns
-
-```{r}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
-  "occurrenceStatus" = "occurrenceStatus.x",
-  "scientificName" = "scientificName...15",
-  "kingdom" = "kingdom...20"
-  
-)
+vbp_ad_hoc_checklist <- unique(herpetofauna_alien)
 ```
 
 
 
 
 ```{r}
-write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
+write_csv(vbp_ad_hoc_checklist, here::here("datasets", "checklist_alien_herpetofauna_belgium", "data", "processed", "vbp_alien_herpetofauna.csv"), na = "")
 ```
 
