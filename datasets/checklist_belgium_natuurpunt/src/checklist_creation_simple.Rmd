@@ -72,7 +72,7 @@ vbp_checklist_natuurpunt_belgium %>% head(n = 5)
 remove obsolete columns
 
 ```{r eval=FALSE, include=FALSE}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
+vbp_checklist_natuurpunt_belgium <- vbp_checklist_natuurpunt_belgium %>% select(
                         -"kingdom...1",
                         -"scientificName...2",
                         -"occurrenceStatus.y")
@@ -81,7 +81,7 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
 rename certain columns
 
 ```{r eval=FALSE, include=FALSE}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
+vbp_checklist_natuurpunt_belgium <- vbp_checklist_natuurpunt_belgium %>% rename(
   "occurrenceStatus" = "occurrenceStatus.x",
   "scientificName" = "scientificName...15",
   "kingdom" = "kingdom...20"
@@ -93,6 +93,6 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
 
 
 ```{r}
-write_csv(vbp_checklist_natuurpunt_belgium, here::here("datasets", "checklist_belgium_natuurpunt", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
+write_csv(vbp_checklist_natuurpunt_belgium, here::here("datasets", "checklist_belgium_natuurpunt", "data", "processed", "vbp_checklist_natuurpunt_belgium.csv"), na = "")
 ```
 
