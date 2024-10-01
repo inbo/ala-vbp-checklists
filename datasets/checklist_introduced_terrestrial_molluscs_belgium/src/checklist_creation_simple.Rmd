@@ -98,14 +98,14 @@ vbp_molluscs_alien <- unique(interim_molluscs_alien)
 remove obsolete columns
 
 ```{r}
-interim_molluscs_alien <- interim_molluscs_alien %>% select(
+vbp_molluscs_alien <- interim_molluscs_alien %<>% select(
                         -"language.x")
  
 ```
 rename certain columns
 
 ```{r}
-interim_molluscs_alien <- interim_molluscs_alien %>% rename(
+vbp_molluscs_alien <- interim_molluscs_alien %>% rename(
   "language" = "language.y")
 ```
 
