@@ -1,5 +1,5 @@
 ---
-title: "checklist_creation_vbp_unielijst"
+title: "checklist_jachtdecreet_vbp"
 author: "Dimitri Brosens"
 date: "2024-08-01"
 output: html_document
@@ -31,7 +31,7 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.delim2(here::here("datasets", "invasieve_uitheemse_soorten_unielijst", "data", "raw", "invasieve_uitheemse_soorten_unielijst.csv"), sep = ";")
+taxon <- read.delim2(here::here("datasets", "checklist_jachtdecreet", "data", "raw", "invasieve_uitheemse_soorten_unielijst.csv"), sep = ";")
 ```
 
 
