@@ -89,10 +89,24 @@ vbp_checklist_natuurpunt_belgium <- vbp_checklist_natuurpunt_belgium %>% rename(
 )
 ```
 
+```{r}
 
+vbp_checklist_natuurpunt_belgium_animalia <- vbp_checklist_natuurpunt_belgium %>% filter(vbp_checklist_natuurpunt_belgium$kingdom == 'Animalia')
+
+```
+```{r}
+
+vbp_checklist_natuurpunt_belgium_plantae <- vbp_checklist_natuurpunt_belgium %>% filter(vbp_checklist_natuurpunt_belgium$kingdom == 'Plantae')
+
+```
 
 
 ```{r}
-write_csv(vbp_checklist_natuurpunt_belgium, here::here("datasets", "checklist_belgium_natuurpunt", "data", "processed", "vbp_checklist_natuurpunt_belgium.csv"), na = "")
+write_csv(vbp_checklist_natuurpunt_belgium_animalia, here::here("datasets", "checklist_belgium_natuurpunt", "data", "processed", "vbp_checklist_natuurpunt_belgium_animalia.csv"), na = "")
+```
+
+
+```{r}
+write_csv(vbp_checklist_natuurpunt_belgium_plantae, here::here("datasets", "checklist_belgium_natuurpunt", "data", "processed", "vbp_checklist_natuurpunt_belgium_plantae.csv"), na = "")
 ```
 
