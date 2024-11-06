@@ -75,25 +75,43 @@ rename certain columns (quick DwC mapping)
 taxon <- taxon %>% rename(
   "scientificName" = "NaamWet_interpretatie",
   "scientificNameAuthorship" = "Auteur",
-  "vernacularName" = "NaamWet_interpretatie",
+  "vernacularName" = "NaamNed_interpretatie",
   "taxonListGroup" = "taxonlijstgroep",
-  "YearOfPublication" = "PublicatieJaar"
+  "YearOfPublication" = "PublicatieJaar",
+  "list" = "Lijst",
+  "attributeValue" = "Kenmerkwaarde",
+  "attribute" = "Kenmerk"    
   
 )
 ```
+add kingdom
 
+```{r}
+taxon <- taxon %>% mutate(attributeValue = case_when(taxon$attributeValue == "Bejaagbaar" ~"huntable",
+                                                      taxon$attributeValue == "Niet-bejaagbaar" ~"not huntable"
+                                              ))
+```
 
 remove obsolete columns
 
 ```{r}
-#taxon <- taxon %>% select(
-#                        -"taxonlijstgroep",
-#                        -"PublicatieJaar")
+taxon <- taxon %>% select(
+                        -"LaatsteVersie",
+                        -"NaamNed",
+                        -"NaamWet",
+                        -"KenmerkwaardeCode"
+                        )
+                  
  
 ```
 
 ```{r}
 taxon <- distinct(taxon, .keep_all = FALSE)
+```
+```{r}
+
+taxon %>% head(n = 5)
+
 ```
 
 
