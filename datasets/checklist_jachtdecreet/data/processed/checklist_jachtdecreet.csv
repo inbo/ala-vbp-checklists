@@ -1,40 +1,40 @@
-Lijst,YearOfPublication,LaatsteVersie,taxonListGroup,NaamWet,NaamNed,taxongroep,vernacularName,scientificNameAuthorship,NaamNed_interpretatie,KenmerkCode,Kenmerk,KenmerkwaardeCode,Kenmerkwaarde,kingdom,listName
-Jachtdecreet,1991,1,grof wild,Capreolus capreolus,ree,Zoogdieren,Capreolus capreolus,NULL,Ree,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,grof wild,Cervus elaphus,edelhert,Zoogdieren,Cervus elaphus,NULL,Edelhert,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,grof wild,Dama dama,damhert,Zoogdieren,Dama dama,NULL,Damhert,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,grof wild,Ovis musimon,moeflon,Zoogdieren,Ovis aries musimon,NULL,Moeflon,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,grof wild,Sus scrofa,wild zwijn,Zoogdieren,Sus scrofa,NULL,Wild zwijn,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,klein wild,Lepus europaeus,haas,Zoogdieren,Lepus europaeus,NULL,Haas,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,klein wild,Lyrurus tetrix,korhoen,Vogels,Lyrurus tetrix,NULL,Korhoen,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,klein wild,Perdix perdix,patrijs,Vogels,Perdix perdix,NULL,Patrijs,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,klein wild,Phasianus colchicus,fazant,Vogels,Phasianus colchicus,NULL,Fazant,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Columba palumbus,houtduif,Vogels,Columba palumbus,NULL,Houtduif,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Felis catus,verwildere kat,Zoogdieren,Felis catus,NULL,Huiskat,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Martes foina,steenmarter,Zoogdieren,Martes foina,NULL,Steenmarter,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Martes martes,boommarter,Zoogdieren,Martes martes,NULL,Boommarter,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Mustela erminea,hermelijn,Zoogdieren,Mustela erminea,NULL,Hermelijn,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Mustela nivalis,wezel,Zoogdieren,Mustela nivalis,NULL,Wezel,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Oryctolagus cuniculus,konijn,Zoogdieren,Oryctolagus cuniculus,NULL,Konijn,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Putorius putorius,bunzing,Zoogdieren,Mustela putorius,NULL,Bunzing,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,overig wild,Vulpes vulpes,vos,Zoogdieren,Vulpes vulpes,NULL,Vos,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anas acuta,pijlstaart,Vogels,Anas acuta,NULL,Pijlstaart,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anas clypeata,slobeend,Vogels,Spatula clypeata,NULL,Slobeend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anas crecca,wintertaling,Vogels,Anas crecca,NULL,Wintertaling,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anas penelope,smient,Vogels,Mareca penelope,NULL,Smient,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anas platyrhynchus,wilde eend,Vogels,Anas platyrhynchos,NULL,Wilde eend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anas querquedula,zomertaling,Vogels,Anas querquedula,NULL,Zomertaling,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anas strepera,krakeend,Vogels,Mareca strepera,NULL,Krakeend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anser albifrons,kolgans,Vogels,Anser albifrons,NULL,Kolgans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anser anser,grauwe gans,Vogels,Anser anser,NULL,Grauwe gans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anser brachyrhynchus,kleine rietgans,Vogels,Anser brachyrhynchus,NULL,Kleine rietgans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Anser fabalis,rietgans,Vogels,Anser fabalis,NULL,Rietgans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Aythya ferina,tafeleend,Vogels,Aythya ferina,NULL,Tafeleend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Aythya fuligula,kuifeend,Vogels,Aythya fuligula,NULL,Kuifeend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Aythya marila,toppereend,Vogels,Aythya marila,NULL,Toppereend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Branta canadensis,Canadagans,Vogels,Branta canadensis,NULL,Canadese gans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Fulica atra,meerkoet,Vogels,Fulica atra,NULL,Meerkoet,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Gallinago gallinago,watersnip,Vogels,Gallinago gallinago,NULL,Watersnip,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Gallinula chloropus,waterhoen,Vogels,Gallinula chloropus,NULL,Waterhoen,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Lymnocryptes minimus,bokje,Vogels,Lymnocryptes minimus,NULL,Bokje,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Pluvialis apricaria,goudplevier,Vogels,Pluvialis apricaria,NULL,Goudplevier,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,NB,Niet-bejaagbaar,Animalia,checklist Jachtdecreet
-Jachtdecreet,1991,1,waterwild,Vanellus vanellus,kievit,Vogels,Vanellus vanellus,NULL,Kievit,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,B,Bejaagbaar,Animalia,checklist Jachtdecreet
+list,YearOfPublication,taxonListGroup,taxongroep,scientificName,scientificNameAuthorship,vernacularName,KenmerkCode,attribute,attributeValue,kingdom,listName
+Jachtdecreet,1991,grof wild,Zoogdieren,Capreolus capreolus,NULL,Ree,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,grof wild,Zoogdieren,Cervus elaphus,NULL,Edelhert,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,grof wild,Zoogdieren,Dama dama,NULL,Damhert,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,grof wild,Zoogdieren,Ovis aries musimon,NULL,Moeflon,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,grof wild,Zoogdieren,Sus scrofa,NULL,Wild zwijn,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,klein wild,Zoogdieren,Lepus europaeus,NULL,Haas,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,klein wild,Vogels,Lyrurus tetrix,NULL,Korhoen,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,klein wild,Vogels,Perdix perdix,NULL,Patrijs,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,klein wild,Vogels,Phasianus colchicus,NULL,Fazant,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Vogels,Columba palumbus,NULL,Houtduif,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Felis catus,NULL,Huiskat,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Martes foina,NULL,Steenmarter,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Martes martes,NULL,Boommarter,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Mustela erminea,NULL,Hermelijn,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Mustela nivalis,NULL,Wezel,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Oryctolagus cuniculus,NULL,Konijn,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Mustela putorius,NULL,Bunzing,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,overig wild,Zoogdieren,Vulpes vulpes,NULL,Vos,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anas acuta,NULL,Pijlstaart,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Spatula clypeata,NULL,Slobeend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anas crecca,NULL,Wintertaling,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Mareca penelope,NULL,Smient,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anas platyrhynchos,NULL,Wilde eend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anas querquedula,NULL,Zomertaling,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Mareca strepera,NULL,Krakeend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anser albifrons,NULL,Kolgans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anser anser,NULL,Grauwe gans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anser brachyrhynchus,NULL,Kleine rietgans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Anser fabalis,NULL,Rietgans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Aythya ferina,NULL,Tafeleend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Aythya fuligula,NULL,Kuifeend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Aythya marila,NULL,Toppereend,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Branta canadensis,NULL,Canadese gans,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Fulica atra,NULL,Meerkoet,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Gallinago gallinago,NULL,Watersnip,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Gallinula chloropus,NULL,Waterhoen,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Lymnocryptes minimus,NULL,Bokje,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Pluvialis apricaria,NULL,Goudplevier,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,not huntable,Animalia,checklist Jachtdecreet
+Jachtdecreet,1991,waterwild,Vogels,Vanellus vanellus,NULL,Kievit,JU,Bejaagbaarheid volgens Jachtuitvoeringsbesluit,huntable,Animalia,checklist Jachtdecreet
