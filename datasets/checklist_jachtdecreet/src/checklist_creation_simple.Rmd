@@ -31,7 +31,7 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.delim2(here::here("datasets", "checklist_jachtdecreet", "data", "raw", "invasieve_uitheemse_soorten_unielijst.csv"), sep = ";")
+taxon <- read.delim2(here::here("datasets", "checklist_jachtdecreet", "data", "raw", "checklist_jachtdecreet.csv"), sep = ";")
 ```
 
 
@@ -63,9 +63,7 @@ add some informative columns
 # degreesOfEstablishment
 
 ```{r}
-taxon %<>% mutate(degreesOfEstablishment = "invasive",
-                  listName = "Unielijst Invasieve exoten EU",
-                  IAScode = KenmerkwaardeCode)
+taxon %<>% mutate(listName = "checklist Jachtdecreet")
 ```
 
 
@@ -75,9 +73,11 @@ rename certain columns (quick DwC mapping)
 
 ```{r}
 taxon <- taxon %>% rename(
-  "scientificName" = "NaamWet",
+  "scientificName" = "NaamWet_interpretatie",
   "scientificNameAuthorship" = "Auteur",
-  "vernacularName" = "NaamNed_interpretatie",
+  "vernacularName" = "NaamWet_interpretatie",
+  "taxonListGroup" = "taxonlijstgroep",
+  "YearOfPublication" = "PublicatieJaar"
   
 )
 ```
@@ -86,11 +86,9 @@ taxon <- taxon %>% rename(
 remove obsolete columns
 
 ```{r}
-taxon <- taxon %>% select(
-                        -"NaamNed",
-                        -"LaatsteVersie",
-                        -"taxonlijstgroep",
-                        -"PublicatieJaar")
+#taxon <- taxon %>% select(
+#                        -"taxonlijstgroep",
+#                        -"PublicatieJaar")
  
 ```
 
@@ -101,6 +99,6 @@ taxon <- distinct(taxon, .keep_all = FALSE)
 
 
 ```{r}
-write_csv(taxon, here::here("datasets", "invasieve_uitheemse_soorten_unielijst", "data", "processed", "vbp_unielijst_uitheemse_soorten.csv"), na = "")
+write_csv(taxon, here::here("datasets", "checklist_jachtdecreet", "data", "processed", "checklist_jachtdecreet.csv"), na = "")
 ```
 
