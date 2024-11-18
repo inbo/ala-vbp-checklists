@@ -1,5 +1,5 @@
 ---
-title: "checklist_creation_vbp_unielijst"
+title: "checklist_creation_prioritaire soorten vlaams brabant"
 author: "Dimitri Brosens"
 date: "2024-08-01"
 output: html_document
@@ -31,7 +31,7 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.delim2(here::here("datasets", "invasieve_uitheemse_soorten_unielijst", "data", "raw", "invasieve_uitheemse_soorten_unielijst.csv"), sep = ";")
+taxon <- read.delim2(here::here("datasets", "provinciaal_belangrijke_soorten_vlaams_brabant", "data", "raw", "provinciaal_belangrijke_soorten_vlaams_brabant.csv"), sep = ";")
 ```
 
 
@@ -55,14 +55,27 @@ taxon <- taxon %>% mutate(kingdom = case_when(taxon$taxongroep == "Vaatplanten" 
                                               taxon$taxongroep == "Platwormen" ~"Animalia",
                                               taxon$taxongroep == "Wieren" ~"Plantae",
                                               taxon$taxongroep == "Mieren" ~"Animalia",
-                                              taxon$taxongroep == "Weekdieren" ~"Animalia"
+                                              taxon$taxongroep == "Weekdieren" ~"Animalia",
+                                              taxon$taxongroep == "Dagvlinders" ~"Animalia",
+                                              taxon$taxongroep == "Libellen" ~"Animalia",
+                                              taxon$taxongroep == "Nachtvlinders" ~"Animalia",
+                                              taxon$taxongroep == "Spinnen" ~"Animalia",
+                                              taxon$taxongroep == "Kevers" ~"Animalia",
+                                              taxon$taxongroep == "Sprinkhanen" ~"Animalia",
+                                              taxon$taxongroep == "Saproxyle kevers" ~"Animalia",
+                                              taxon$taxongroep == "Bladmossen" ~"Plantae",
+                                              taxon$taxongroep == "Korstmossen" ~"Plantae",
+                                              taxon$taxonlijstgroep == "Vaatplanten" ~"Plantae",
+                                              taxon$taxongroep == "Vissen" ~"Animalia",
+                                              taxon$taxonlijstgroep == "Vissen" ~"Animalia"
+
                                               ))
 ```
 add some informative columns
 
 # degreesOfEstablishment
 
-```{r}
+```{r eval=FALSE, include=FALSE}
 taxon %<>% mutate(degreesOfEstablishment = "invasive",
                   listName = "Unielijst Invasieve exoten EU",
                   IAScode = KenmerkwaardeCode)
@@ -75,7 +88,7 @@ rename certain columns (quick DwC mapping)
 
 ```{r}
 taxon <- taxon %>% rename(
-  "scientificName" = "NaamWet",
+  "scientificName" = "NaamWet_interpretatie",
   "scientificNameAuthorship" = "Auteur",
   "vernacularName" = "NaamNed_interpretatie",
   
@@ -101,6 +114,6 @@ taxon <- distinct(taxon, .keep_all = FALSE)
 
 
 ```{r}
-write_csv(taxon, here::here("datasets", "invasieve_uitheemse_soorten_unielijst", "data", "processed", "vbp_unielijst_uitheemse_soorten.csv"), na = "")
+write_csv(taxon, here::here("datasets", "provinciaal_belangrijke_soorten_vlaams_brabant", "data", "processed", "provinciaal_belangrijke_soorten_vlaams_brabant.csv"), na = "")
 ```
 
