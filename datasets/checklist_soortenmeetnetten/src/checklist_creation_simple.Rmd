@@ -105,7 +105,8 @@ remove obsolete columns
 ```{r}
 taxon <- taxon %>% select(
                         -"NaamNed",
-                        -"LaatsteVersie")
+                        -"LaatsteVersie",
+                        -"NaamWet")
  
 ```
 
