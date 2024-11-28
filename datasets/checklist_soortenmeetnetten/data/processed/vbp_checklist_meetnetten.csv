@@ -1,0 +1,162 @@
+list,YearOfPublication,taxonListGroup,taxongroep,scientificName,scientificNameAuthorship,vernacularName,KenmerkCode,attribute,KenmerkwaardeCode,attributeValue,kingdom,listName
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Alytes obstetricans,"Laurenti, 1768",Vroedmeesterpad,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Epidalea calamita,NULL,Rugstreeppad,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Hyla arborea,NULL,Boomkikker,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Pelobates fuscus,NULL,Knoflookpad,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Pelophylax kl. esculentus,NULL,Bastaardkikker,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Pelophylax lessonae,"(Camerano, 1882)",Poelkikker,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Pelophylax ridibundus,NULL,Europese meerkikker,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Rana arvalis,NULL,Heikikker,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Rana temporaria,NULL,Bruine kikker,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Salamandra salamandra,NULL,Vuursalamander,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,amfibieën,Amfibieën,Triturus cristatus,"(Laurenti, 1768)",Kamsalamander,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Apatura iris,NULL,Grote weerschijnvlinder,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Cyaniris semiargus,NULL,Klaverblauwtje,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Erynnis tages,NULL,Bruin dikkopje,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Euphydryas aurinia,NULL,Moerasparelmoervlinder,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Hesperia comma,NULL,Kommavlinder,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Hipparchia semele,"(Linnaeus, 1758)",Heivlinder,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Lasiommata megera,NULL,Argusvlinder,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Melitaea cinxia,NULL,Veldparelmoervlinder,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Phengaris alcon,NULL,Gentiaanblauwtje,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Pyrgus malvae,NULL,Aardbeivlinder,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Pyronia tithonus,NULL,Oranje zandoogje,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,dagvlinders,Dagvlinders,Satyrium ilicis,NULL,Bruine eikenpage,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Aeshna isoceles,NULL,Vroege glazenmaker,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Calopteryx virgo,NULL,Bosbeekjuffer,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Coenagrion hastulatum,NULL,Speerwaterjuffer,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Coenagrion lunulatum,NULL,Maanwaterjuffer,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Coenagrion pulchellum,NULL,Variabele waterjuffer,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Stylurus flavipes,NULL,Rivierrombout,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Gomphus vulgatissimus,NULL,Beekrombout,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Leucorrhinia caudalis,NULL,Sierlijke witsnuitlibel,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Leucorrhinia pectoralis,NULL,Gevlekte witsnuitlibel,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Somatochlora arctica,NULL,Hoogveenglanslibel,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,libellen,Libellen,Sympetrum depressiusculum,NULL,Kempense heidelibel,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,mollusken,Weekdieren,Anisus (Disculifer) vorticulus,NULL,Platte schijfhoren,MT,Type monitoring,IS,Inhaalslag,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,mollusken,Weekdieren,Helix pomatia,NULL,Wijngaardslak,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,mollusken,Weekdieren,Unio crassus,NULL,Bataafse stroommossel,MT,Type monitoring,IS,Inhaalslag,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,mollusken,Weekdieren,Vertigo angustior,NULL,Nauwe korfslak,MT,Type monitoring,IS,Inhaalslag,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,mollusken,Weekdieren,Vertigo moulinsiana,NULL,Zeggenkorfslak,MT,Type monitoring,IS,Inhaalslag,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,nachtvlinders,Nachtvlinders,Euplagia quadripunctaria,NULL,Spaanse vlag,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,nachtvlinders,Nachtvlinders,Proserpinus proserpina,NULL,Teunisbloempijlstaart,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Saproxyle kevers,Cucujus cinnaberinus,NULL,Vermiljoenkever,MT,Type monitoring,IS,Inhaalslag,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Spinnen,Dolomedes fimbriatus,NULL,Gerande oeverspin,MT,Type monitoring,IS,Inhaalslag,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Kevers,Elater ferrugineus,NULL,Roestbruine kniptor,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Sprinkhanen,Ephippiger diurnus,NULL,Zadelsprinkhaan,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Spinnen,Eresus sandaliatus,NULL,Lentevuurspin,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Saproxyle kevers,Lucanus cervus,NULL,Vliegend hert,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Saproxyle kevers,Osmoderma eremita,NULL,Juchtleerkever,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,overige,Sprinkhanen,Stenobothrus stigmaticus,NULL,Schavertje,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Apium repens,(Jacq.) Lag.,Kruipend moerasscherm,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Baldellia ranunculoides,(L.) Parl.,Moerasweegbree,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Bupleurum tenuissimum,L.,Fijn goudscherm,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Carex diandra,Schrank,Ronde zegge,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Carex trinervis,Degl.,Drienervige zegge,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Korstmossen,Cladonia arbuscula,(Wallr.) Flot.,Gebogen rendiermos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Korstmossen,Cladonia ciliata,Stirt.,Sierlijk rendiermos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Korstmossen,Cladonia portentosa,(Dufour) Coem.,Open rendiermos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Korstmossen,Cladonia rangiferina,(L.) F.H. Wigg.,Echt rendiermos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Korstmossen,Cladonia rangiformis,Hoffm.,Vals rendiermos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Korstmossen,Cladonia stellaris,(Opiz) Pouzar & Vezda,Kerststukjesrendiermos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Hammarbya paludosa,(L.) O. Kuntze,Veenmosorchis,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Deschampsia setacea,(Huds.) Hack.,Moerassmele,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Diphasiastrum tristachyum,(Pursh) Holub,Kleine wolfsklauw,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Eriophorum gracile,Koch ex Roth,Slank wollegras,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Gentianella uliginosa,(Willd.) Börner,Duingentiaan,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Halimione pedunculata,(L.) Aell.,Gesteelde zoutmelde,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Hamatocaulis vernicosus,(Mitt.) Hedenäs,Geel schorpioenmos,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Herminium monorchis,(L.) R. Brown,Honingorchis,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Juncus capitatus,Weigel,Koprus,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Leucobryum glaucum,(Hedw.) Ångstr.,Kussentjesmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Liparis loeselii,(L.) L.C.M. Rich.,Groenknolorchis,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Luronium natans,(L.) Rafin.,Drijvende waterweegbree,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Diphasiastrum tristachyum,(Pursh) Holub,Kleine wolfsklauw,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Huperzia selago,(L.) Bernh. ex Schrank et C.F.P. Mart.,Dennenwolfsklauw,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Lycopodiella inundata,(L.) Holub,Moeraswolfsklauw,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Lycopodium annotinum,L.,Stekende wolfsklauw,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Lycopodium clavatum,L.,Grote wolfsklauw,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Mentha pulegium,L.,Polei,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Orchis morio,L.,Harlekijn,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Orchis purpurea,Huds.,Purperorchis,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Orobanche rapum-genistae,Thuill.,Grote bremraap,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Pilularia globulifera,L.,Pilvaren,MT,Type monitoring,LW,Losse waarnemingen,Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Platanthera bifolia,(L.) L.C.M. Rich.,Welriekende nachtorchis,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Potamogeton acutifolius,Link,Spits fonteinkruid,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Potamogeton coloratus,Hornem.,Weegbreefonteinkruid,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Potamogeton compressus,L.,Plat fonteinkruid,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Ranunculus ololeucos,Lloyd,Witte waterranonkel,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Scirpus pungens,NULL,Stekende bies,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Scirpus triqueter,NULL,Driekantige bies,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Scorzonera humilis,L.,Kleine schorseneer,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum affine,Renauld & Cardot,Kamveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum angustifolium,(C.E.O.Jensen ex Russow) C.E.O.Jensen,Smalbladig veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum auriculatum,Schimp.,Geoord veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum capillifolium,(Ehrh.) Hedw.,Stijf veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum compactum,Lam. & DC.,Kussentjesveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum contortum,Schultz,Trilveenveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum cuspidatum,Ehrh. ex Hoffm.,Waterveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum fallax,(H.Klinggr.) H.Klinggr.,Fraai veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum fimbriatum,Wilson,Gewimperd veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum flexuosum,Dozy & Molk.,Slank veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum inundatum,Russow,Amfibisch veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum magellanicum,Brid.,Hoogveenveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum majus,(Russow) C.E.O.Jensen,Dof veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum molle,Sull.,Week veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum obtusum,Warnst.,Stomp veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum palustre,L.,Gewoon veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum papillosum,Lindb.,Wrattig veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum platyphyllum,(Lindb. ex Braithw.) Warnst.,Lepelbladveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum riparium,Ångstr.,Uitgebeten veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum rubellum,Wilson,Rood veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum russowii,Warnst.,Violet veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum squarrosum,Crome,Haakveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum subnitens,Russow & Warnst.,Glanzend veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum subsecundum,Nees,Moerasveenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum tenellum,(Brid.) Pers. ex Brid.,Zacht veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Bladmossen,Sphagnum teres,(Schimp.) Ångstr.,Sparrig veenmos,MT,Type monitoring,HM,Synergie (habitatmonitoring),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Stratiotes aloides,L.,Krabbenscheer,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Utricularia ochroleuca,R. Hartm.,Bleekgeel blaasjeskruid,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,planten,Vaatplanten,Wahlenbergia hederacea,(L.) Reichenb.,Klimopklokje,MT,Type monitoring,MNI,Meetnet (integraal),Plantae,checklist Meetnetten
+Soortenmeetnetten,2014,reptielen,Reptielen,Coronella austriaca,NULL,Gladde slang,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Alosa fallax,NULL,Fint,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Anguilla anguilla,NULL,Paling,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Barbus barbus,NULL,Barbeel,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Cobitis taenia,NULL,Kleine modderkruiper,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Cottus perifretum,NULL,Rivierdonderpad,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Cottus rhenanus,NULL,Beekdonderpad,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Lampetra fluviatilis,NULL,Rivierprik,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Lampetra planeri,NULL,Beekprik,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Misgurnus fossilis,NULL,Grote modderkruiper,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Petromyzon marinus,NULL,Zeeprik,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Rhodeus sericeus,NULL,Bittervoorn,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Salmo salar,NULL,Atlantische zalm,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,vissen,Vissen,Thymallus thymallus,NULL,Vlagzalm,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Barbastella barbastellus,NULL,Mopsvleermuis,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Canis lupus,NULL,Wolf,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Castor fiber,NULL,Europese bever,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Cricetus cricetus,NULL,Europese hamster,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Crocidura leucodon,NULL,Veldspitsmuis,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Eliomys quercinus,NULL,Eikelmuis,MT,Type monitoring,TB,Te bepalen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Eptesicus serotinus,NULL,Laatvlieger,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Lutra lutra,NULL,Europese otter,MT,Type monitoring,IS,Inhaalslag,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Lynx lynx,NULL,Euraziatische lynx,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Meles meles,NULL,Das,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Muscardinus avellanarius,NULL,Hazelmuis,MT,Type monitoring,MNI,Meetnet (integraal),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis bechsteinii,NULL,Bechsteins vleermuis,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis brandtii,NULL,Brandts vleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis dasycneme,NULL,Meervleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis daubentonii,NULL,Watervleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis emarginatus,NULL,Ingekorven vleermuis,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis myotis,NULL,Vale vleermuis,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis mystacinus,NULL,Baardvleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Myotis nattereri,NULL,Franjestaart,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Nyctalus leisleri,NULL,Bosvleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Nyctalus noctula,NULL,Rosse vleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Pipistrellus nathusii,NULL,Ruige dwergvleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Pipistrellus pipistrellus,NULL,Gewone dwergvleermuis,MT,Type monitoring,MN,Meetnet,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Pipistrellus pygmaeus,NULL,Kleine dwergvleermuis,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Plecotus auritus,NULL,Gewone grootoorvleermuis,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Plecotus austriacus,NULL,Grijze grootoorvleermuis,MT,Type monitoring,MNS,Meetnet (steekproef),Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Rhinolophus ferrumequinum,NULL,Grote hoefijzerneus,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
+Soortenmeetnetten,2014,zoogdieren,Zoogdieren,Vespertilio murinus,NULL,Tweekleurige vleermuis,MT,Type monitoring,LW,Losse waarnemingen,Animalia,checklist Meetnetten
