@@ -91,12 +91,18 @@ vbp_checklist_natuurpunt_belgium <- vbp_checklist_natuurpunt_belgium %>% rename(
 
 ```{r}
 
-vbp_checklist_natuurpunt_belgium_animalia <- vbp_checklist_natuurpunt_belgium %>% filter(vbp_checklist_natuurpunt_belgium$kingdom == 'Animalia')
+vbp_checklist_natuurpunt_belgium_animalia <- vbp_checklist_natuurpunt_belgium %>% filter(vbp_checklist_natuurpunt_belgium$kingdom == 'Animalia',
+                                                                                         vbp_checklist_natuurpunt_belgium$locality == 'Flemish Region')                                                                                    
 
 ```
+
+
+
+
 ```{r}
 
-vbp_checklist_natuurpunt_belgium_plantae <- vbp_checklist_natuurpunt_belgium %>% filter(vbp_checklist_natuurpunt_belgium$kingdom == 'Plantae')
+vbp_checklist_natuurpunt_belgium_plantae <- vbp_checklist_natuurpunt_belgium %>% filter(vbp_checklist_natuurpunt_belgium$kingdom == 'Plantae',
+                                                                                        vbp_checklist_natuurpunt_belgium$locality == 'Flemish Region')
 
 ```
 
