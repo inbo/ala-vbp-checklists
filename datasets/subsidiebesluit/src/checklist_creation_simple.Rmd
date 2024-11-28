@@ -47,7 +47,9 @@ remove obsolete columns
 ```{r}
 taxon_core <- taxon_core %>% select(
                         -"KenmerkCode",
-                        -"Kenmerk"
+                        -"Kenmerk",
+                        -"taxonlijstgroep",
+                        -"Kenmerkwaarde"
                         )
  
 ```
@@ -91,7 +93,7 @@ taxon_core <- taxon_core %>%
     "dwc_scientificName"   = NaamWet_interpretatie ,
     "dwc_vernacularName"   = NaamNed_interpretatie ,
     "dwc_scientificNameAuthorship" = Auteur ,
-    "dwc_taxonlistgroup" = taxonlijstgroep ,
+    #"dwc_taxonlistgroup" = taxonlijstgroep ,
     
   )
 ```
@@ -119,6 +121,9 @@ taxon_core  %>% head()
 
 
 
+```{r}
+taxon_core <- unique(taxon_core)
+```
 
 
 
