@@ -1,504 +1,445 @@
 Lijst,NaamWet,taxongroep,scientificName,scientificNameAuthorship,vernacularName,KenmerkCode,Kenmerk,KenmerkwaardeCode,Kenmerkwaarde,kingdom
-Provinciaal belangrijke soorten - West-Vlaanderen,Epidalea calamita,Amfibieën,Epidalea calamita,NULL,Rugstreeppad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Hyla arborea,Amfibieën,Hyla arborea,NULL,Boomkikker,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lissotriton helveticus,Vaatplanten,Lissotriton helveticus,NULL,Vinpootsalamander,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Lissotriton vulgaris,Vaatplanten,Lissotriton vulgaris,NULL,Kleine watersalamander,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Pelophylax lessonae,Amfibieën,Pelophylax lessonae,"(Camerano, 1882)",Poelkikker,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Triturus cristatus,Amfibieën,Triturus cristatus,"(Laurenti, 1768)",Kamsalamander,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Acrocephalus schoenobaenus,Vogels,Acrocephalus schoenobaenus,NULL,Rietzanger,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anas querquedula,Vogels,Anas querquedula,NULL,Zomertaling,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Charadrius alexandrinus,Vogels,Charadrius alexandrinus,NULL,Strandplevier,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Ciconia ciconia,Vogels,Ciconia ciconia,NULL,Ooievaar,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Circus aeruginosus,Vogels,Circus aeruginosus,NULL,Bruine kiekendief,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Crex crex,Vogels,Crex crex,NULL,Kwartelkoning,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Egretta garzetta,Vogels,Egretta garzetta,NULL,Kleine zilverreiger,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Emberiza schoeniclus,Vogels,Emberiza schoeniclus,NULL,Rietgors,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Galerida cristata,Vogels,Galerida cristata,NULL,Kuifleeuwerik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Himantopus himantopus,Vogels,Himantopus himantopus,NULL,Steltkluut,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Larus fuscus,Vogels,Larus fuscus,NULL,Kleine mantelmeeuw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Limosa limosa,Vogels,Limosa limosa,NULL,Grutto,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Locustella luscinioides,Vogels,Locustella luscinioides,NULL,Snor,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Nycticorax nycticorax,Vogels,Nycticorax nycticorax,NULL,Kwak,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Oenanthe oenanthe,Vogels,Oenanthe oenanthe,NULL,Tapuit,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Perdix perdix,Vogels,Perdix perdix,NULL,Patrijs,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Platalea leucorodia,Vogels,Platalea leucorodia,NULL,Lepelaar,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Porzana porzana,Vogels,Porzana porzana,NULL,Porseleinhoen,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Recurvirostra avosetta,Vogels,Recurvirostra avosetta,NULL,Kluut,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Saxicola rubetra,Vogels,Saxicola rubetra,NULL,Paapje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Sterna albifrons,Vogels,Sternula albifrons,NULL,Dwergstern,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Sterna hirundo,Vogels,Sterna hirundo,NULL,Visdief,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Sterna sandvicensis,Vogels,Thalasseus sandvicensis,NULL,Grote stern,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tringa totanus,Vogels,Tringa totanus,NULL,Tureluur,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anthocharis cardamines,Dagvlinders,Anthocharis cardamines,NULL,Oranjetipje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Aphantopus hyperantus,Dagvlinders,Aphantopus hyperantus,NULL,Koevinkje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Aricia agestis,Dagvlinders,Aricia agestis,NULL,Bruin blauwtje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Callophrys rubi,Dagvlinders,Callophrys rubi,NULL,Groentje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Coenonympha pamphilus,Dagvlinders,Coenonympha pamphilus,NULL,Hooibeestje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Hipparchia semele,Dagvlinders,Hipparchia semele,"(Linnaeus, 1758)",Heivlinder,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Issoria lathonia,Dagvlinders,Issoria lathonia,NULL,Kleine parelmoervlinder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lasiommata megera,Dagvlinders,Lasiommata megera,NULL,Argusvlinder,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Limenitis camilla,Dagvlinders,Limenitis camilla,NULL,Kleine ijsvogelvlinder,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lycaena phlaeas,Dagvlinders,Lycaena phlaeas,NULL,Kleine vuurvlinder,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Maniola jurtina,Dagvlinders,Maniola jurtina,NULL,Bruin zandoogje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Ochlodes sylvanus,Dagvlinders,Ochlodes sylvanus,NULL,Groot dikkopje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Polyommatus icarus,Dagvlinders,Polyommatus icarus,NULL,Icarusblauwtje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pyrgus malvae,Dagvlinders,Pyrgus malvae,NULL,Aardbeivlinder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Satyrium ilicis,Dagvlinders,Satyrium ilicis,NULL,Bruine eikenpage,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Thecla betulae,Dagvlinders,Thecla betulae,NULL,Sleedoornpage,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Thymelicus lineola,Dagvlinders,Thymelicus lineola,NULL,Zwartsprietdikkopje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Thymelicus sylvestris,Dagvlinders,Thymelicus sylvestris,NULL,Geelsprietdikkopje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Calopteryx splendens,Libellen,Calopteryx splendens,NULL,Weidebeekjuffer,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Coenagrion pulchellum,Libellen,Coenagrion pulchellum,NULL,Variabele waterjuffer,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cordulia aenea,Libellen,Cordulia aenea,NULL,Smaragdlibel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Crocothemis erythraea,Libellen,Crocothemis erythraea,NULL,Vuurlibel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Leucorrhinia dubia,Libellen,Leucorrhinia dubia,NULL,Venwitsnuitlibel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Libellula quadrimaculata,Libellen,Libellula quadrimaculata,NULL,Viervlek,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Somatochlora metallica,Libellen,Somatochlora metallica,NULL,Metaalglanslibel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Coccinella magnifica,Lieveheersbeestjes,Coccinella magnifica,NULL,Schitterend lieveheersbeestje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,
-Provinciaal belangrijke soorten - West-Vlaanderen,Henosepilachna argus,Lieveheersbeestjes,Henosepilachna argus,NULL,Heggenranklieveheersbeestje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,
-Provinciaal belangrijke soorten - West-Vlaanderen,Parexochomus nigromaculatus,Lieveheersbeestjes,Exochomus nigromaculatus,NULL,Zwart lieveheersbeestje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,
-Provinciaal belangrijke soorten - West-Vlaanderen,Formica polyctena,Mieren,Formica polyctena,NULL,Kale bosmier,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Formica rufa,Mieren,Formica rufa,NULL,Behaarde bosmier,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Formica rufa x polyctena,Mieren,Formica rufa x polyctena,NULL,Hybride van formica rufa-complex,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lasius psammophilus,Mieren,Lasius psammophilus,NULL,Buntgrasmier,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Myrmica specioides,Mieren,Myrmica specioides,NULL,Duinsteekmier,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tapinoma erraticum,Mieren,Tapinoma erraticum,NULL,Mergeldraaigatje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anas acuta,Vogels,Anas acuta,NULL,Pijlstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anas clypeata,Vogels,Spatula clypeata,NULL,Slobeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anas penelope,Vogels,Mareca penelope,NULL,Smient,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anser albifrons,Vogels,Anser albifrons,NULL,Kolgans,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anser brachyrhynchus,Vogels,Anser brachyrhynchus,NULL,Kleine rietgans,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Podiceps cristatus,Vogels,Podiceps cristatus,NULL,Fuut,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anguis fragilis,Reptielen,Anguis fragilis,NULL,Hazelworm,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Zootoca vivipara,Reptielen,Zootoca vivipara,NULL,Levendbarende hagedis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Chrysochraon dispar,Sprinkhanen,Chrysochraon dispar,NULL,Gouden sprinkhaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Gryllotalpa gryllotalpa,Sprinkhanen,Gryllotalpa gryllotalpa,NULL,Veenmol,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Gryllus campestris,Sprinkhanen,Gryllus campestris,NULL,Veldkrekel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Metrioptera brachyptera,Sprinkhanen,Metrioptera brachyptera,NULL,Heidesabelsprinkhaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Oedipoda caerulescens,Sprinkhanen,Oedipoda caerulescens,NULL,Blauwvleugelsprinkhaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Platycleis albopunctata,Sprinkhanen,Platycleis albopunctata,NULL,Duinsabelsprinkhaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Roeseliana roeselii,Sprinkhanen,Roeseliana roeselii,NULL,Greppelsprinkhaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Stenobothrus stigmaticus,Sprinkhanen,Stenobothrus stigmaticus,NULL,Schavertje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Stethophyma grossum,Sprinkhanen,Stethophyma grossum,NULL,Moerassprinkhaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tetrix ceperoi,Sprinkhanen,Tetrix ceperoi,NULL,Zanddoorntje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Achillea ptarmica L.,Vaatplanten,Achillea ptarmica,L.,Wilde bertram,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Alisma gramineum Lej.,Vaatplanten,Alisma gramineum,Lej.,Smalle waterweegbree,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Alisma lanceolatum With.,Vaatplanten,Alisma lanceolatum,With.,Slanke waterweegbree,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Anemone nemorosa L.,Vaatplanten,Anemone nemorosa,L.,Bosanemoon,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Anthyllis vulneraria L.,Vaatplanten,Anthyllis vulneraria,L.,Wondklaver,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Apium graveolens L.,Vaatplanten,Apium graveolens,L.,Selderij,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Apium repens (Jacq.) Lag.,Vaatplanten,Apium repens,(Jacq.) Lag.,Kruipend moerasscherm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Armeria maritima Willd.,Vaatplanten,Armeria maritima,Willd.,Engels gras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Artemisia maritima L.,Vaatplanten,Artemisia maritima,L.,Zeealsem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Atriplex glabriuscula Edmondst.,Vaatplanten,Atriplex glabriuscula,Edmondst.,Kustmelde,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Atriplex laciniata L.,Vaatplanten,Atriplex laciniata,L.,Gelobde melde,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Botrychium lunaria (L.) Swartz,Vaatplanten,Botrychium lunaria,(L.) Swartz,Gelobde maanvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Butomus umbellatus L.,Vaatplanten,Butomus umbellatus,L.,Zwanenbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Calluna vulgaris (L.) Hull,Vaatplanten,Calluna vulgaris,(L.) Hull,Struikhei,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Caltha palustris L.,Vaatplanten,Caltha palustris,L.,Dotterbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Campanula rotundifolia L.,Vaatplanten,Campanula rotundifolia,L.,Grasklokje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Cardamine amara L.,Vaatplanten,Cardamine amara,L.,Bittere veldkers,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carduus tenuiflorus Curt.,Vaatplanten,Carduus tenuiflorus,Curt.,Tengere distel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex binervis Smith,Vaatplanten,Carex binervis,Smith,Tweenervige zegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex divisa Huds.,Vaatplanten,Carex divisa,Huds.,Kustzegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex echinata Murray,Vaatplanten,Carex echinata,Murray,Sterzegge,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex pendula Huds.,Vaatplanten,Carex pendula,Huds.,Hangende zegge,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carlina vulgaris L.,Vaatplanten,Carlina vulgaris,L.,Driedistel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Catapodium rigidum (L.) C.E. Hubbard,Vaatplanten,Catapodium rigidum,(L.) C.E. Hubbard,Stijf hardgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Centaurea cyanus L.,Vaatplanten,Centaurea cyanus,L.,Korenbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Centunculus minimus L.,Vaatplanten,Centunculus minimus,L.,Dwergbloem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Chenopodium murale L.,Vaatplanten,Chenopodium murale,L.,Muurganzenvoet,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Chrysosplenium alternifolium L.,Vaatplanten,Chrysosplenium alternifolium,L.,Verspreidbladig goudveil,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Chrysosplenium oppositifolium L.,Vaatplanten,Chrysosplenium oppositifolium,L.,Paarbladig goudveil,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Conopodium majus (Gouan) Loret,Vaatplanten,Conopodium majus,(Gouan) Loret,Franse aardkastanje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Crepis biennis L.,Vaatplanten,Crepis biennis,L.,Groot streepzaad,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Crithmum maritimum L.,Vaatplanten,Crithmum maritimum,L.,Zeevenkel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Dactylorhiza fuchsii (Druce) Soó,Vaatplanten,Dactylorhiza fuchsii,(Druce) Soó,Bosorchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Dactylorhiza incarnata (L.) Soó,Vaatplanten,Dactylorhiza incarnata,(L.) Soó,Vleeskleurige orchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Dactylorhiza maculata (L.) Soó,Vaatplanten,Dactylorhiza maculata,(L.) Soó,Gevlekte orchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Dactylorhiza majalis (Reichenb.) P.F. Hunt et Summerh.,Vaatplanten,Dactylorhiza majalis,(Reichenb.) P.F. Hunt et Summerh.,Brede orchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Dactylorhiza praetermissa (Druce) Soó,Vaatplanten,Dactylorhiza praetermissa,(Druce) Soó,Rietorchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Drosera intermedia Hayne,Vaatplanten,Drosera intermedia,Hayne,Kleine zonnedauw,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Drosera rotundifolia L.,Vaatplanten,Drosera rotundifolia,L.,Ronde zonnedauw,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Epipactis palustris (L.) Crantz,Vaatplanten,Epipactis palustris,(L.) Crantz,Moeraswespenorchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Equisetum fluviatile L.,Vaatplanten,Equisetum fluviatile,L.,Holpijp,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Equisetum sylvaticum L.,Vaatplanten,Equisetum sylvaticum,L.,Bospaardenstaart,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Equisetum variegatum Schleich.,Vaatplanten,Equisetum variegatum,Schleich.,Bonte paardenstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Erica cinerea L.,Vaatplanten,Erica cinerea,L.,Rode dophei,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Erica tetralix L.,Vaatplanten,Erica tetralix,L.,Gewone dophei,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Eryngium maritimum L.,Vaatplanten,Eryngium maritimum,L.,Blauwe zeedistel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Erysimum cheiri (L.) Crantz,Vaatplanten,Erysimum cheiri,(L.) Crantz,Muurbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Euphrasia,NULL,NULL,NULL,NULL,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Festuca juncifolia St-Amans,Vaatplanten,Festuca juncifolia,St-Amans,Duinzwenkgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Fragaria vesca L.,Vaatplanten,Fragaria vesca,L.,Bosaardbei,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Fumaria densiflora DC.,Vaatplanten,Fumaria densiflora,DC.,Dichtbloemige duivenkervel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Gentianella uliginosa (Willd.) Börner,Vaatplanten,Gentianella uliginosa,(Willd.) Börner,Duingentiaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Glaucium flavum Crantz,Vaatplanten,Glaucium flavum,Crantz,Gele hoornpapaver,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Gymnadenia conopsea (L.) R. Brown,Vaatplanten,Gymnadenia conopsea,(L.) R. Brown,Grote muggenorchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Herminium monorchis (L.) R. Brown,Vaatplanten,Herminium monorchis,(L.) R. Brown,Honingorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Himantoglossum hircinum (L.) Spreng.,Vaatplanten,Himantoglossum hircinum,(L.) Spreng.,Bokkenorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hippuris vulgaris L.,Vaatplanten,Hippuris vulgaris,L.,Lidsteng,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Honckenya peploides (L.) Ehrh.,Vaatplanten,Honckenya peploides,(L.) Ehrh.,Zeepostelein,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hottonia palustris L.,Vaatplanten,Hottonia palustris,L.,Waterviolier,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hyacinthoides non-scripta (L.) Chouard ex Rothm.,Vaatplanten,Hyacinthoides non-scripta,(L.) Chouard ex Rothm.,Wilde hyacint,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hypericum elodes L.,Vaatplanten,Hypericum elodes,L.,Moerashertshooi,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hypericum pulchrum L.,Vaatplanten,Hypericum pulchrum,L.,Fraai hertshooi,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Jasione montana L.,Vaatplanten,Jasione montana,L.,Zandblauwtje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Juncus maritimus Lam.,Vaatplanten,Juncus maritimus,Lam.,Zeerus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Lathyrus palustris L.,Vaatplanten,Lathyrus palustris,L.,Moeraslathyrus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Lathyrus tuberosus L.,Vaatplanten,Lathyrus tuberosus,L.,Aardaker,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Leucojum aestivum L.,Vaatplanten,Leucojum aestivum,L.,Zomerklokje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Limonium vulgare Mill.,Vaatplanten,Limonium vulgare,Mill.,Lamsoor,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Linum catharticum L.,Vaatplanten,Linum catharticum,L.,Geelhartje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Lychnis flos-cuculi L.,Vaatplanten,Lychnis flos-cuculi,L.,Echte koekoeksbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Maianthemum bifolium (L.) F.W. Schmidt,Vaatplanten,Maianthemum bifolium,(L.) F.W. Schmidt,Dalkruid,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Melampyrum pratense L.,Vaatplanten,Melampyrum pratense,L.,Hengel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Menyanthes trifoliata L.,Vaatplanten,Menyanthes trifoliata,L.,Waterdrieblad,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Myrica gale L.,Vaatplanten,Myrica gale,L.,Wilde gagel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Nuphar lutea (L.) Smith,Vaatplanten,Nuphar lutea,(L.) Smith,Gele plomp,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Nymphoides peltata (S.G. Gmel.) O. Kuntze,Vaatplanten,Nymphoides peltata,(S.G. Gmel.) O. Kuntze,Watergentiaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Oenanthe lachenalii C.C. Gmel.,Vaatplanten,Oenanthe lachenalii,C.C. Gmel.,Zilt torkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Oenanthe pimpinelloides L.,Vaatplanten,Oenanthe pimpinelloides,L.,Beverneltorkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Oenanthe silaifolia Bieb.,Vaatplanten,Oenanthe silaifolia,Bieb.,Weidekervel-torkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ophrys apifera Huds.,Vaatplanten,Ophrys apifera,Huds.,Bijenorchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Orchis militaris L.,Vaatplanten,Orchis militaris,L.,Soldaatje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Orchis morio L.,Vaatplanten,Orchis morio,L.,Harlekijn,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Orobanche caryophyllacea Smith,Vaatplanten,Orobanche caryophyllacea,Smith,Walstrobremraap,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Orobanche rapum-genistae Thuill.,Vaatplanten,Orobanche rapum-genistae,Thuill.,Grote bremraap,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Osmunda regalis L.,Vaatplanten,Osmunda regalis,L.,Koningsvaren,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Parapholis strigosa (Dum.) C.E. Hubbard,Vaatplanten,Parapholis strigosa,(Dum.) C.E. Hubbard,Dunstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Paris quadrifolia L.,Vaatplanten,Paris quadrifolia,L.,Eenbes,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Parnassia palustris L.,Vaatplanten,Parnassia palustris,L.,Parnassia,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Petroselinum segetum (L.) Koch,Vaatplanten,Petroselinum segetum,(L.) Koch,Wilde peterselie,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Peucedanum palustre (L.) Moench,Vaatplanten,Peucedanum palustre,(L.) Moench,Melkeppe,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Platanthera bifolia (L.) L.C.M. Rich.,Vaatplanten,Platanthera bifolia,(L.) L.C.M. Rich.,Welriekende nachtorchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Platanthera chlorantha (Cust.) Reichenb.,Vaatplanten,Platanthera chlorantha,(Cust.) Reichenb.,Bergnachtorchis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Polygala vulgaris L.,Vaatplanten,Polygala vulgaris,L.,Gewone vleugeltjesbloem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Polygonum oxyspermum C.A. Mey. et Bunge ex Ledeb.,Vaatplanten,Polygonum oxyspermum,C.A. Mey. et Bunge ex Ledeb.,Zandvarkensgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Populus nigra L. var. Nigra,Vaatplanten,Populus nigra L. var. nigra,NULL,Zwarte populier var. nigra,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Primula elatior (L.) Hill,Vaatplanten,Primula elatior,(L.) Hill,Slanke sleutelbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Primula veris L.,Vaatplanten,Primula veris,L.,Gulden sleutelbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Primula vulgaris Huds.,Vaatplanten,Primula vulgaris,Huds.,Stengelloze sleutelbloem,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Puccinellia capillaris (Liljebl.) Jansen,Vaatplanten,Puccinellia capillaris,(Liljebl.) Jansen,Bleek kweldergras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Rhinanthus angustifolius C.C. Gmel.,Vaatplanten,Rhinanthus angustifolius,C.C. Gmel.,Grote ratelaar,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Rhinanthus minor L.,Vaatplanten,Rhinanthus minor,L.,Kleine ratelaar,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Sagina nodosa (L.) Fenzl,Vaatplanten,Sagina nodosa,(L.) Fenzl,Sierlijke vetmuur,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Sagittaria sagittifolia L.,Vaatplanten,Sagittaria sagittifolia,L.,Pijlkruid,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Schoenoplectus lacustris (L.) R. Brown,Vaatplanten,Schoenoplectus lacustris,(L.) R. Brown,Mattenbies,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Scutellaria minor Huds.,Vaatplanten,Scutellaria minor,Huds.,Klein glidkruid,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Senecio aquaticus Hill,Vaatplanten,Senecio aquaticus,Hill,Waterkruiskruid,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Senecio paludosus L.,Vaatplanten,Senecio paludosus,L.,Moeraskruiskruid,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Serratula tinctoria L.,Vaatplanten,Serratula tinctoria,L.,Zaagblad,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Silene conica L.,Vaatplanten,Silene conica,L.,Kegelsilene,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Sison amomum L.,Vaatplanten,Sison amomum,L.,Steeneppe,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Sium latifolium L.,Vaatplanten,Sium latifolium,L.,Grote watereppe,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Succisa pratensis Moench,Vaatplanten,Succisa pratensis,Moench,Blauwe knoop,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Tamus communis L.,Vaatplanten,Tamus communis,L.,Spekwortel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Thelypteris palustris Schott,Vaatplanten,Thelypteris palustris,Schott,Moerasvaren,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Thesium humifusum DC.,Vaatplanten,Thesium humifusum,DC.,Liggend bergvlas,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Trifolium micranthum Viv.,Vaatplanten,Trifolium micranthum,Viv.,Draadklaver,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Trifolium subterraneum L.,Vaatplanten,Trifolium subterraneum,L.,Onderaardse klaver,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ulex europaeus L.,Vaatplanten,Ulex europaeus,L.,Gaspeldoorn,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Utricularia,Vaatplanten,Utricularia australis,R. Brown,Loos blaasjeskruid,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Utricularia,Vaatplanten,Utricularia vulgaris,L.,Groot blaasjeskruid,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Vaccinium myrtillus L.,Vaatplanten,Vaccinium myrtillus,L.,Blauwe bosbes,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Viola canina L.,Vaatplanten,Viola canina,L.,Hondsviooltje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Viola palustris L.,Vaatplanten,Viola palustris,L.,Moerasviooltje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Wolffia arrhiza (L.) Hork. ex Wimm.,Vaatplanten,Wolffia arrhiza,(L.) Hork. ex Wimm.,Wortelloos kroos,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Barbatula barbatula,Vissen,Barbatula barbatula,NULL,Bermpje,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cobitis taenia,Vissen,Cobitis taenia,NULL,Kleine modderkruiper,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lampetra planeri,Vissen,Lampetra planeri,NULL,Beekprik,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Platichthys flesus,Vissen,Platichthys flesus,NULL,Bot,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Rhodeus amarus,Vissen,Rhodeus amarus,NULL,Bittervoorn,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,NULL,NULL,NULL,NULL,NULL,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,
-Provinciaal belangrijke soorten - West-Vlaanderen,Alauda arvensis,Vogels,Alauda arvensis,NULL,Veldleeuwerik,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Alcedo atthis,Vogels,Alcedo atthis,NULL,Ijsvogel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anthus trivialis,Vogels,Anthus trivialis,NULL,Boompieper,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Apus apus,Vogels,Apus apus,NULL,Gierzwaluw,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Ardea cinerea,Vogels,Ardea cinerea,NULL,Blauwe reiger,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Arenaria interpres,Vogels,Arenaria interpres,NULL,Steenloper,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Asio flammeus,Vogels,Asio flammeus,NULL,Velduil,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Athene noctua,Vogels,Athene noctua,NULL,Steenuil,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Botaurus stellaris,Vogels,Botaurus stellaris,NULL,Roerdomp,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Calidris alba,Vogels,Calidris alba,NULL,Drieteenstrandloper,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Caprimulgus europaeus,Vogels,Caprimulgus europaeus,NULL,Nachtzwaluw,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Carduelis carduelis,Vogels,Carduelis carduelis,NULL,Putter,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Charadrius dubius,Vogels,Charadrius dubius,NULL,Kleine plevier,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cygnus columbianus,Vogels,Cygnus columbianus,NULL,Kleine zwaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Delichon urbica,Vogels,Delichon urbicum,NULL,Huiszwaluw,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Dryocopus martius,Vogels,Dryocopus martius,NULL,Zwarte specht,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Emberiza calandra,Vogels,Emberiza calandra,NULL,Grauwe gors,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Emberiza citrinella,Vogels,Emberiza citrinella,NULL,Geelgors,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Eremophila alpestris,Vogels,Eremophila alpestris,NULL,Strandleeuwerik,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Falco peregrinus,Vogels,Falco peregrinus,NULL,Slechtvalk,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Gallinago gallinago,Vogels,Gallinago gallinago,NULL,Watersnip,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Hirundo rustica,Vogels,Hirundo rustica,NULL,Boerenzwaluw,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Ixobrychus minutus,Vogels,Ixobrychus minutus,NULL,Woudaap,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lullula arborea,Vogels,Lullula arborea,NULL,Boomleeuwerik,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Luscinia megarhynchos,Vogels,Luscinia megarhynchos,NULL,Nachtegaal,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Luscinia svecica,Vogels,Luscinia svecica,NULL,Blauwborst,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Motacilla cinerea,Vogels,Motacilla cinerea,NULL,Grote gele kwikstaart,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Motacilla flava,Vogels,Motacilla flava,NULL,Gele kwikstaart,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Panurus biarmicus,Vogels,Panurus biarmicus,NULL,Baardman,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Parus montanus,Vogels,Poecile montanus,NULL,Matkop,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Passer domesticus,Vogels,Passer domesticus,NULL,Huismus,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Passer montanus,Vogels,Passer montanus,NULL,Ringmus,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Philomachus pugnax,Vogels,Calidris pugnax,NULL,Kemphaan,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Phoenicurus phoenicurus,Vogels,Phoenicurus phoenicurus,NULL,Gekraagde roodstaart,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Plectrophenax nivalis,Vogels,Plectrophenax nivalis,NULL,Sneeuwgors,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pluvialis apricaria,Vogels,Pluvialis apricaria,NULL,Goudplevier,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Riparia riparia,Vogels,Riparia riparia,NULL,Oeverzwaluw,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Saxicola torquatus,Vogels,Saxicola rubicola,NULL,Roodborsttapuit,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Streptopelia turtur,Vogels,Streptopelia turtur,NULL,Zomertortel,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tachybaptus ruficollis,Vogels,Tachybaptus ruficollis,NULL,Dodaars,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tyto alba,Vogels,Tyto alba,NULL,Kerkuil,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Eliomys quercinus,Zoogdieren,Eliomys quercinus,NULL,Eikelmuis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Halichoerus grypus,Zoogdieren,Halichoerus grypus,NULL,Grijze zeehond,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Martes foina,Zoogdieren,Martes foina,NULL,Steenmarter,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Martes martes,Zoogdieren,Martes martes,NULL,Boommarter,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Myotis daubentonii,Zoogdieren,Myotis daubentonii,NULL,Watervleermuis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Myotis emarginatus,Zoogdieren,Myotis emarginatus,NULL,Ingekorven vleermuis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Neomys fodiens,Zoogdieren,Neomys fodiens,NULL,Waterspitsmuis,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Phoca vitulina,Zoogdieren,Phoca vitulina,NULL,Gewone zeehond,PBS,Provinciaal belangrijke soorten,SS,Symboolsoort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Barbastella barbastellus,Zoogdieren,Barbastella barbastellus,NULL,Mopsvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Myotis dasycneme,Zoogdieren,Myotis dasycneme,NULL,Meervleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Myotis mystacinus,Zoogdieren,Myotis mystacinus,NULL,Baardvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pipistrellus nathusii,Zoogdieren,Pipistrellus nathusii,NULL,Ruige dwergvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Plecotus auritus,Zoogdieren,Plecotus auritus,NULL,Gewone grootoorvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Alauda arvensis,Vogels,Alauda arvensis,NULL,Veldleeuwerik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Alcedo atthis,Vogels,Alcedo atthis,NULL,Ijsvogel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anthus pratensis,Vogels,Anthus pratensis,NULL,Graspieper,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anthus trivialis,Vogels,Anthus trivialis,NULL,Boompieper,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Asio flammeus,Vogels,Asio flammeus,NULL,Velduil,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Botaurus stellaris,Vogels,Botaurus stellaris,NULL,Roerdomp,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Bubo bubo,Vogels,Bubo bubo,NULL,Oehoe,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Charadrius hiaticula,Vogels,Charadrius hiaticula,NULL,Bontbekplevier,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Circus pygargus,Vogels,Circus pygargus,NULL,Grauwe kiekendief,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cisticola juncidis,Vogels,Cisticola juncidis,NULL,Graszanger,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Coturnix coturnix,Vogels,Coturnix coturnix,NULL,Kwartel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cyanecula svecica,Vogels,Luscinia svecica,NULL,Blauwborst,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Dryocopus martius,Vogels,Dryocopus martius,NULL,Zwarte specht,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Falco peregrinus,Vogels,Falco peregrinus,NULL,Slechtvalk,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Gallinago gallinago,Vogels,Gallinago gallinago,NULL,Watersnip,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Haematopus ostralegus,Vogels,Haematopus ostralegus,NULL,Scholekster,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Hirundo rustica,Vogels,Hirundo rustica,NULL,Boerenzwaluw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Ichtyaetus melanocephalus,Vogels,Ichthyaetus melanocephalus,NULL,Zwartkopmeeuw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Ixobrychus minutus,Vogels,Ixobrychus minutus,NULL,Woudaap,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Leiopicus medius,Vogels,Dendrocoptes medius,NULL,Middelste bonte specht,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lullula arborea,Vogels,Lullula arborea,NULL,Boomleeuwerik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Luscinia megarhynchos,Vogels,Luscinia megarhynchos,NULL,Nachtegaal,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Oriolus oriolus,Vogels,Oriolus oriolus,NULL,Wielewaal,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Parus montanus,Vogels,Poecile montanus,NULL,Matkop,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Passer domesticus,Vogels,Passer domesticus,NULL,Huismus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Passer montanus,Vogels,Passer montanus,NULL,Ringmus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pernis apivorus,Vogels,Pernis apivorus,NULL,Wespendief,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Phylloscopus sibilatrix,Vogels,Phylloscopus sibilatrix,NULL,Fluiter,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Saxicola rubetra,Vogels,Saxicola rubetra,NULL,Paapje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Sternula albifrons,Vogels,Sternula albifrons,NULL,Dwergstern,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Streptopelia turtur,Vogels,Streptopelia turtur,NULL,Zomertortel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Sylvia curruca,Vogels,Sylvia curruca,NULL,Braamsluiper,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tadorna tadorna,Vogels,Tadorna tadorna,NULL,Bergeend,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Thalasseus sandvicensis,Vogels,Thalasseus sandvicensis,NULL,Grote stern,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Vanellus vanellus,Vogels,Vanellus vanellus,NULL,Kievit,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Apatura iris,Dagvlinders,Apatura iris,NULL,Grote weerschijnvlinder,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Callophrys rubi,Dagvlinders,Callophrys rubi,NULL,Groentje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Hipparchia semele,Dagvlinders,Hipparchia semele,"(Linnaeus, 1758)",Heivlinder,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lasiommata megera,Dagvlinders,Lasiommata megera,NULL,Argusvlinder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pyronia tithonus,Dagvlinders,Pyronia tithonus,NULL,Oranje zandoogje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Thymelicus lineola,Dagvlinders,Thymelicus lineola,NULL,Zwartsprietdikkopje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Aeshna isoceles,Libellen,Aeshna isoceles,NULL,Vroege glazenmaker,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Coenagrion pulchellum,Libellen,Coenagrion pulchellum,NULL,Variabele waterjuffer,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Coenagrion scitulum,Libellen,Coenagrion scitulum,NULL,Gaffelwaterjuffer,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Leucorrhinia dubia,Libellen,Leucorrhinia dubia,NULL,Venwitsnuitlibel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Leucorrhinia rubicunda,Libellen,Leucorrhinia rubicunda,NULL,Noordse witsnuitlibel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Vertigo angustior,Weekdieren,Vertigo angustior,NULL,Nauwe korfslak,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Vertigo moulinsiana,Weekdieren,Vertigo moulinsiana,NULL,Zeggenkorfslak,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Euplagia quadripunctaria,Nachtvlinders,Euplagia quadripunctaria,NULL,Spaanse vlag,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Proserpinus proserpina,Nachtvlinders,Proserpinus proserpina,NULL,Teunisbloempijlstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anas crecca,Vogels,Anas crecca,NULL,Wintertaling,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anser anser,Vogels,Anser anser,NULL,Grauwe gans,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anser serrirostris,Vogels,Anser serrirostris,NULL,Toendrarietgans,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Arenaria interpres,Vogels,Arenaria interpres,NULL,Steenloper,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Aythya ferina,Vogels,Aythya ferina,NULL,Tafeleend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Aythya fuligula,Vogels,Aythya fuligula,NULL,Kuifeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Calidris pugnax,Vogels,Calidris pugnax,NULL,Kemphaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Casmerodius albus,Vogels,Ardea alba,NULL,Grote zilverreiger,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cygnus columbianus,Vogels,Cygnus columbianus,NULL,Kleine zwaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Mareca penelope,Vogels,Mareca penelope,NULL,Smient,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Mareca strepera,Vogels,Mareca strepera,NULL,Krakeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Numenius arquata,Vogels,Numenius arquata,NULL,Wulp,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pluvialis apricaria,Vogels,Pluvialis apricaria,NULL,Goudplevier,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Spatula clypeata,Vogels,Spatula clypeata,NULL,Slobeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tadorna tadorna,Vogels,Tadorna tadorna,NULL,Bergeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cucujus cinnaberinus,Saproxyle kevers,Cucujus cinnaberinus,NULL,Vermiljoenkever,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Gryllus campestris,Sprinkhanen,Gryllus campestris,NULL,Veldkrekel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Platycleis albopunctata,Sprinkhanen,Platycleis albopunctata,NULL,Duinsabelsprinkhaan,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Ammophila arenaria,Vaatplanten,Ammophila arenaria,(L.) Link,Helm,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Anagallis tenella,Vaatplanten,Anagallis tenella,(L.) L.,Teer guichelheil,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Anthyllis vulneraria,Vaatplanten,Anthyllis vulneraria,L.,Wondklaver,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Apium graveolens,Vaatplanten,Apium graveolens,L.,Selderij,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Apium repens,Vaatplanten,Apium repens,(Jacq.) Lag.,Kruipend moerasscherm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Artemisia maritima,Vaatplanten,Artemisia maritima,L.,Zeealsem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Asperula cynanchica,Vaatplanten,Asperula cynanchica,L.,Kalkbedstro,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Aster tripolium,Vaatplanten,Aster tripolium,L.,Zulte,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Atriplex glabriuscula,Vaatplanten,Atriplex glabriuscula,Edmondst.,Kustmelde,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Atriplex laciniata,Vaatplanten,Atriplex laciniata,L.,Gelobde melde,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Atriplex littoralis,Vaatplanten,Atriplex littoralis,L.,Strandmelde,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Avenula pubescens,Vaatplanten,Avenula pubescens,(Huds.) Dum.,Zachte haver,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Beta vulgaris subsp. Maritima,Vaatplanten,Beta vulgaris subsp. maritima,(L.) Arcang.,Strandbiet,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Blysmus compressus,Vaatplanten,Blysmus compressus,(L.) Panzer ex Link,Platte bies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Botrychium lunaria,Vaatplanten,Botrychium lunaria,(L.) Swartz,Gelobde maanvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Briza media,Vaatplanten,Briza media,L.,Bevertjes,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Bromus hordeaceus subsp. Thominei,Vaatplanten,Bromus hordeaceus L. subsp. thominei,(Hardouin) Br.-Bl.,Duindravik,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Bupleurum tenuissimum,Vaatplanten,Bupleurum tenuissimum,L.,Fijn goudscherm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Cakile maritima,Vaatplanten,Cakile maritima,Scop.,Zeeraket,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Calystegia soldanella,Vaatplanten,Calystegia soldanella,(L.) R. Brown,Zeewinde,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex binervis,Vaatplanten,Carex binervis,Smith,Tweenervige zegge,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex distans,Vaatplanten,Carex distans,L.,Zilte zegge,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex divisa,Vaatplanten,Carex divisa,Huds.,Kustzegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex extensa,Vaatplanten,Carex extensa,Good.,Kwelderzegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex trinervis,Vaatplanten,Carex trinervis,Degl.,Drienervige zegge,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carex viridula s.l.,Vaatplanten,Carex viridula,s.l.,Dwergzegge groep,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Carlina vulgaris,Vaatplanten,Carlina vulgaris,L.,Driedistel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Catapodium rigidum,Vaatplanten,Catapodium rigidum,(L.) C.E. Hubbard,Stijf hardgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Centaurium littorale,Vaatplanten,Centaurium littorale,(D. Turn.) Gilm.,Strandduizendguldenkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Centunculus minimus,Vaatplanten,Centunculus minimus,L.,Dwergbloem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Cerastium diffusum,Vaatplanten,Cerastium diffusum,Pers.,Scheve hoornbloem,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Cicendia filiformis,Vaatplanten,Cicendia filiformis,(L.) Delarbre,Draadgentiaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Cuscuta epithymum,Vaatplanten,Cuscuta epithymum,(L.) L.,Klein warkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Drosera rotundifolia,Vaatplanten,Drosera rotundifolia,L.,Ronde zonnedauw,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Eleocharis quinqueflora,Vaatplanten,Eleocharis quinqueflora,(F.X. Hartm.) O. Schwartz,Armbloemige waterbies,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Eleocharis uniglumis,Vaatplanten,Eleocharis uniglumis,(Link) Schult.,Slanke waterbies,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Elymus farctus,Vaatplanten,Elymus farctus,(Viv.) Runemark ex Melderis,Biestarwegras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Equisetum variegatum,Vaatplanten,Equisetum variegatum,Schleich.,Bonte paardenstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Erica cinerea,Vaatplanten,Erica cinerea,L.,Rode dophei,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Erigeron acer,Vaatplanten,Erigeron acer,L.,Scherpe fijnstraal,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Eriophorum angustifolium,Vaatplanten,Eriophorum angustifolium,Honck.,Veenpluis,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Eriophorum latifolium,Vaatplanten,Eriophorum latifolium,Hoppe,Breed wollegras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Erodium lebelii,Vaatplanten,Erodium lebelii,Jord.,Kleverige reigersbek,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Eryngium maritimum,Vaatplanten,Eryngium maritimum,L.,Blauwe zeedistel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Euphorbia paralias,Vaatplanten,Euphorbia paralias,L.,Zeewolfsmelk,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Festuca juncifolia,Vaatplanten,Festuca juncifolia,St-Amans,Duinzwenkgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Genista pilosa,Vaatplanten,Genista pilosa,L.,Kruipbrem,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Gentianella uliginosa,Vaatplanten,Gentianella uliginosa,(Willd.) Börner,Duingentiaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Glaux maritima,Vaatplanten,Glaux maritima,L.,Melkkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Gymnadenia conopsea,Vaatplanten,Gymnadenia conopsea,(L.) R. Brown,Grote muggenorchis,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Gymnocarpium dryopteris,Vaatplanten,Gymnocarpium dryopteris,(L.) Newman,Gebogen driehoeksvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Gymnocarpium robertianum,Vaatplanten,Gymnocarpium robertianum,(Hoffmann) Newman,Rechte driehoeksvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Halimione pedunculata,Vaatplanten,Halimione pedunculata,(L.) Aell.,Gesteelde zoutmelde,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Halimione portulacoides,Vaatplanten,Halimione portulacoides,(L.) Aell.,Gewone zoutmelde,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Helianthemum nummularium,Vaatplanten,Helianthemum nummularium,(L.) Mill.,Geel zonneroosje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Herminium monorchis,Vaatplanten,Herminium monorchis,(L.) R. Brown,Honingorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Himantoglossum hircinum,Vaatplanten,Himantoglossum hircinum,(L.) Spreng.,Bokkenorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hippophae rhamnoides,Vaatplanten,Hippophae rhamnoides,L.,Duindoorn,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hippuris vulgaris,Vaatplanten,Hippuris vulgaris,L.,Lidsteng,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Honckenya peploides,Vaatplanten,Honckenya peploides,(L.) Ehrh.,Zeepostelein,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hydrocharis morsus-ranae,Vaatplanten,Hydrocharis morsus-ranae,L.,Kikkerbeet,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Hypochaeris glabra,Vaatplanten,Hypochaeris glabra,L.,Glad biggenkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Juncus anceps,Vaatplanten,Juncus anceps,Laharpe,Duinrus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Juncus arcticus,Vaatplanten,Juncus arcticus,Willd.,Noordse rus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Juncus gerardii,Vaatplanten,Juncus gerardii,Loisel.,Zilte rus,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Juncus maritimus,Vaatplanten,Juncus maritimus,Lam.,Zeerus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Koeleria albescens,Vaatplanten,Koeleria albescens,DC.,Duinfakkelgras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Koeleria macrantha,Vaatplanten,Koeleria macrantha,(Ledeb.) Schult.,Smal fakkelgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Lathyrus palustris,Vaatplanten,Lathyrus palustris,L.,Moeraslathyrus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Lemna trisulca,Vaatplanten,Lemna trisulca,L.,Puntkroos,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Leymus arenarius,Vaatplanten,Leymus arenarius,(L.) Hochst.,Zandhaver,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Limonium vulgare,Vaatplanten,Limonium vulgare,Mill.,Lamsoor,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Linum catharticum,Vaatplanten,Linum catharticum,L.,Geelhartje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Lithospermum officinale,Vaatplanten,Lithospermum officinale,L.,Glad parelzaad,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Marrubium vulgare,Vaatplanten,Marrubium vulgare,L.,Malrove,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Menyanthes trifoliata,Vaatplanten,Menyanthes trifoliata,L.,Waterdrieblad,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Mibora minima,Vaatplanten,Mibora minima,(L.) Desv.,Dwerggras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Narthecium ossifragum,Vaatplanten,Narthecium ossifragum,(L.) Huds.,Beenbreek,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Oenanthe lachenalii,Vaatplanten,Oenanthe lachenalii,C.C. Gmel.,Zilt torkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Oenanthe silaifolia,Vaatplanten,Oenanthe silaifolia,Bieb.,Weidekervel-torkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ononis repens,Vaatplanten,Ononis repens,L.,Kruipend stalkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ononis spinosa,Vaatplanten,Ononis spinosa,L.,Kattendoorn,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ophioglossum azoricum,Vaatplanten,Ophioglossum azoricum,C. Presl,Azorenaddertong,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Orchis morio,Vaatplanten,Orchis morio,L.,Harlekijn,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Orobanche caryophyllacea,Vaatplanten,Orobanche caryophyllacea,Smith,Walstrobremraap,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Orobanche rapum-genistae,Vaatplanten,Orobanche rapum-genistae,Thuill.,Grote bremraap,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Parapholis strigosa,Vaatplanten,Parapholis strigosa,(Dum.) C.E. Hubbard,Dunstaart,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Parnassia palustris,Vaatplanten,Parnassia palustris,L.,Parnassia,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Pedicularis sylvatica,Vaatplanten,Pedicularis sylvatica,L.,Heidekartelblad,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Phleum arenarium,Vaatplanten,Phleum arenarium,L.,Zanddoddengras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Pilularia globulifera,Vaatplanten,Pilularia globulifera,L.,Pilvaren,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Plantago maritima,Vaatplanten,Plantago maritima,L.,Zeeweegbree,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Platanthera bifolia,Vaatplanten,Platanthera bifolia,(L.) L.C.M. Rich.,Welriekende nachtorchis,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Polygala serpyllifolia,Vaatplanten,Polygala serpyllifolia,Hose,Liggende vleugeltjesbloem,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Polygala vulgaris,Vaatplanten,Polygala vulgaris,L.,Gewone vleugeltjesbloem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Polygonatum odoratum,Vaatplanten,Polygonatum odoratum,(Mill.) Druce,Welriekende salomonszegel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Polygonum oxyspermum,Vaatplanten,Polygonum oxyspermum,C.A. Mey. et Bunge ex Ledeb.,Zandvarkensgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Potamogeton lucens,Vaatplanten,Potamogeton lucens,L.,Glanzig fonteinkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Potamogeton perfoliatus,Vaatplanten,Potamogeton perfoliatus,L.,Doorgroeid fonteinkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Potentilla neumanniana,Vaatplanten,Potentilla neumanniana,Reichenb.,Voorjaarsganzerik,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Primula veris,Vaatplanten,Primula veris,L.,Gulden sleutelbloem,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Puccinellia capillaris,Vaatplanten,Puccinellia capillaris,(Liljebl.) Jansen,Bleek kweldergras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Puccinellia distans,Vaatplanten,Puccinellia distans,(L.) Parl.,Stomp kweldergras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Puccinellia fasciculata,Vaatplanten,Puccinellia fasciculata,(Torr.) E.P. Bicknell,Blauw kweldergras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Puccinellia maritima,Vaatplanten,Puccinellia maritima,(Huds.) Parl.,Gewoon kweldergras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Pulicaria vulgaris,Vaatplanten,Pulicaria vulgaris,Gaertn.,Klein vlooienkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Pyrola rotundifolia,Vaatplanten,Pyrola rotundifolia,L.,Rond wintergroen,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Radiola linoides,Vaatplanten,Radiola linoides,Roth,Dwergvlas,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ranunculus ololeucos,Vaatplanten,Ranunculus ololeucos,Lloyd,Witte waterranonkel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Rhinanthus minor,Vaatplanten,Rhinanthus minor,L.,Kleine ratelaar,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Rhynchospora alba,Vaatplanten,Rhynchospora alba,(L.) Vahl,Witte snavelbies,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ruppia cirrhosa,Vaatplanten,Ruppia cirrhosa,(Petagna) Grande,Spiraalruppia,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Ruppia maritima,Vaatplanten,Ruppia maritima,L.,Snavelruppia,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Sagina nodosa,Vaatplanten,Sagina nodosa,(L.) Fenzl,Sierlijke vetmuur,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Salicornia europaea en S. procumbens,Vaatplanten,Salicornia europaea,L.,Kortarige zeekraal,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Salicornia europaea en S. procumbens,Vaatplanten,Salicornia procumbens ,Smith,Langarige zeekraal,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Salicornia pusilla,Vaatplanten,Salicornia pusilla,J. Woods,Eenbloemige zeekraal,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Salsola kali,Vaatplanten,Salsola kali,L.,Loogkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Sanguisorba officinalis,Vaatplanten,Sanguisorba officinalis,L.,Grote pimpernel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Schoenoplectus pungens,Vaatplanten,Schoenoplectus pungens,(Vahl) Palla,Stekende bies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Schoenus nigricans,Vaatplanten,Schoenus nigricans,L.,Knopbies,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Scirpoides holoschoenus,Vaatplanten,Scirpoides holoschoenus,(L.) Sojak,Kogelbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Scleranthus perennis,Vaatplanten,Scleranthus perennis,L.,Overblijvende hardbloem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Silene conica,Vaatplanten,Silene conica,L.,Kegelsilene,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Silene nutans,Vaatplanten,Silene nutans,L.,Nachtsilene,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Sison amomum,Vaatplanten,Sison amomum,L.,Steeneppe,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Spergularia marina,Vaatplanten,Spergularia marina,(L.) Besser,Zilte schijnspurrie,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Stellaria pallida,Vaatplanten,Stellaria pallida,(Dum.) Piré,Duinvogelmuur,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Stratiotes aloides,Vaatplanten,Stratiotes aloides,L.,Krabbenscheer,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Suaeda maritima,Vaatplanten,Suaeda maritima,(L.) Dum.,Klein schorrenkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Thesium humifusum,Vaatplanten,Thesium humifusum,DC.,Liggend bergvlas,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Thymus pulegioides,Vaatplanten,Thymus pulegioides,L.,Grote tijm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Trifolium scabrum,Vaatplanten,Trifolium scabrum,L.,Ruwe klaver,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Trifolium striatum,Vaatplanten,Trifolium striatum,L.,Gestreepte klaver,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Triglochin maritima,Vaatplanten,Triglochin maritima,L.,Schorrenzoutgras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Utricularia australis,Vaatplanten,Utricularia australis,R. Brown,Loos blaasjeskruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Valerianella carinata,Vaatplanten,Valerianella carinata,Loisel.,Gegroefde veldsla,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Veronica praecox,Vaatplanten,Veronica praecox,All.,Vroege ereprijs,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Vicia lathyroides,Vaatplanten,Vicia lathyroides,L.,Lathyruswikke,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Viola canina,Vaatplanten,Viola canina,L.,Hondsviooltje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Viola curtisii,Vaatplanten,Viola curtisii,E. Forster,Duinviooltje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Viola lactea,Vaatplanten,Viola lactea,Smith,Echt melkviooltje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Viola persicifolia,Vaatplanten,Viola persicifolia,Schreb.,Vals melkviooltje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Wolffia arrhiza,Vaatplanten,Wolffia arrhiza,(L.) Hork. ex Wimm.,Wortelloos kroos,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
-Provinciaal belangrijke soorten - West-Vlaanderen,Alosa fallax,Vissen,Alosa fallax,NULL,Fint,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Anguilla anguilla,Vissen,Anguilla anguilla,NULL,Paling,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Cobitis taenia,Vissen,Cobitis taenia,NULL,Kleine modderkruiper,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Lampetra fluviatilis,Vissen,Lampetra fluviatilis,NULL,Rivierprik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Leuciscus leuciscus,Vissen,Leuciscus leuciscus,NULL,Serpeling,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Liza ramada,Vissen,Liza ramada,NULL,Dunlipharder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Rhodeus amarus,Vissen,Rhodeus amarus,NULL,Bittervoorn,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Tinca tinca,Vissen,Tinca tinca,NULL,Zeelt,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Castor fiber,Zoogdieren,Castor fiber,NULL,Europese bever,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Eliomys quercinus,Zoogdieren,Eliomys quercinus,NULL,Eikelmuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Halichoerus grypus,Zoogdieren,Halichoerus grypus,NULL,Grijze zeehond,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Mustela erminea,Zoogdieren,Mustela erminea,NULL,Hermelijn,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Neomys fodiens,Zoogdieren,Neomys fodiens,NULL,Waterspitsmuis,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Phoca vitulina,Zoogdieren,Phoca vitulina,NULL,Gewone zeehond,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Phocoena phocoena,Zoogdieren,Phocoena phocoena,NULL,Bruinvis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Eptesicus serotinus,Zoogdieren,Eptesicus serotinus,NULL,Laatvlieger,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Myotis daubentonii,Zoogdieren,Myotis daubentonii,NULL,Watervleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Myotis nattereri,Zoogdieren,Myotis nattereri,NULL,Franjestaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Nyctalus leisleri,Zoogdieren,Nyctalus leisleri,NULL,Bosvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Nyctalus noctula,Zoogdieren,Nyctalus noctula,NULL,Rosse vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pipistrellus pipistrellus,Zoogdieren,Pipistrellus pipistrellus,NULL,Gewone dwergvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Pipistrellus pygmaeus,Zoogdieren,Pipistrellus pygmaeus,NULL,Kleine dwergvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Plecotus austriacus,Zoogdieren,Plecotus austriacus,NULL,Grijze grootoorvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Rhinolophus ferrumequinum,Zoogdieren,Rhinolophus ferrumequinum,NULL,Grote hoefijzerneus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
-Provinciaal belangrijke soorten - West-Vlaanderen,Vespertilio murinus,Zoogdieren,Vespertilio murinus,NULL,Tweekleurige vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Bufo calamita,Amfibieën,Epidalea calamita,NULL,Rugstreeppad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Epidalea calamita,Amfibieën,Epidalea calamita,NULL,Rugstreeppad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pelophylax lessonae,Amfibieën,Pelophylax lessonae,"(Camerano, 1882)",Poelkikker,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Rana arvalis,Amfibieën,Rana arvalis,NULL,Heikikker,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Alcedo atthis,Vogels,Alcedo atthis,NULL,Ijsvogel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anthus trivialis,Vogels,Anthus trivialis,NULL,Boompieper,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Dryocopus martius,Vogels,Dryocopus martius,NULL,Zwarte specht,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lullula arborea,Vogels,Lullula arborea,NULL,Boomleeuwerik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Luscinia megarhynchos,Vogels,Luscinia megarhynchos,NULL,Nachtegaal,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Luscinia svecica,Vogels,Luscinia svecica,NULL,Blauwborst,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Oriolus oriolus,Vogels,Oriolus oriolus,NULL,Wielewaal,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Parus montanus,Vogels,Poecile montanus,NULL,Matkop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Phoenicurus phoenicurus,Vogels,Phoenicurus phoenicurus,NULL,Gekraagde roodstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Porzana porzana,Vogels,Porzana porzana,NULL,Porseleinhoen,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Recurvirostra avosetta,Vogels,Recurvirostra avosetta,NULL,Kluut,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Callophrys rubi,Dagvlinders,Callophrys rubi,NULL,Groentje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Carterocephalus palaemon,Dagvlinders,Carterocephalus palaemon,NULL,Bont dikkopje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Hipparchia semele,Dagvlinders,Hipparchia semele,"(Linnaeus, 1758)",Heivlinder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Melitaea cinxia,Dagvlinders,Melitaea cinxia,NULL,Veldparelmoervlinder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Phengaris alcon,Dagvlinders,Phengaris alcon,NULL,Gentiaanblauwtje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Plebejus argus,Dagvlinders,Plebejus argus,NULL,Heideblauwtje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Aeshna isoceles,Libellen,Aeshna isoceles,NULL,Vroege glazenmaker,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Aeshna juncea,Libellen,Aeshna juncea,NULL,Venglazenmaker,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Brachytron pratense,Libellen,Brachytron pratense,NULL,Glassnijder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Calopteryx virgo,Libellen,Calopteryx virgo,NULL,Bosbeekjuffer,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Coenagrion lunulatum,Libellen,Coenagrion lunulatum,NULL,Maanwaterjuffer,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Coenagrion pulchellum,Libellen,Coenagrion pulchellum,NULL,Variabele waterjuffer,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Gomphus vulgatissimus,Libellen,Gomphus vulgatissimus,NULL,Beekrombout,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lestes dryas,Libellen,Lestes dryas,NULL,Tangpantserjuffer,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Leucorrhinia pectoralis,Libellen,Leucorrhinia pectoralis,NULL,Gevlekte witsnuitlibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Leucorrhinia rubicunda,Libellen,Leucorrhinia rubicunda,NULL,Noordse witsnuitlibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Libellula fulva,Libellen,Libellula fulva,NULL,Bruine korenbout,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Orthetrum coerulescens,Libellen,Orthetrum coerulescens,NULL,Beekoeverlibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sympetrum depressiusculum,Libellen,Sympetrum depressiusculum,NULL,Kempense heidelibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Alnicola alnetorum,Paddenstoelen,Alnicola alnetorum,NULL,Rossige elzenzompzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Camarophyllopsis phaeophylla,Paddenstoelen,Camarophyllopsis phaeophylla,NULL,Donkere wasplaat,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Clavaria argillacea,Paddenstoelen,Clavaria argillacea,NULL,Heideknotszwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Entoloma ameides,Paddenstoelen,Entoloma ameides,NULL,Zoetgeurende satijnzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Entoloma bisporigerum,Paddenstoelen,Entoloma bisporigerum,NULL,Tweesporige satijnzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Entoloma caccabus,Paddenstoelen,Entoloma caccabus,NULL,Ranzige elzensatijnzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Entoloma politum,Paddenstoelen,Entoloma politum,NULL,Nitreuze elzensatijnzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Faerberia carbonarium,Paddenstoelen,Faerberia carbonarium,NULL,Brandplekribbelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Galerina jaapii,Paddenstoelen,Galerina jaapii,NULL,Witgeringd mosklokje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Galerina paludosa,Paddenstoelen,Galerina paludosa,NULL,Vlokkig veenmosklokje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Gymnopilus fulgens,Paddenstoelen,Gymnopilus fulgens,NULL,Veenvlamhoed,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Gymnopilus odini,Paddenstoelen,Gymnopilus odini,NULL,Bosbrandvlamhoed,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Helvella spadicea,Paddenstoelen,Helvella spadicea,NULL,Nonnenkapkluifzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Hydnellum compactum,Paddenstoelen,Hydnellum compactum,NULL,Scherpe stekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Hydnellum concrescens,Paddenstoelen,Hydnellum concrescens,NULL,Gezoneerde stekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Hydnellum spongiosipes,Paddenstoelen,Hydnellum spongiosipes,NULL,Fluwelige stekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Hypholoma ericaeoides,Paddenstoelen,Hypholoma ericaeoides,NULL,Gele moeraszwavelkop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Inocybe calamistrata,Paddenstoelen,Inocybe calamistrata,NULL,Groenvoetvezelkop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Inocybe paludinella,Paddenstoelen,Inocybe paludinella,NULL,Valse satijnvezelkop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Inocybe sambucina,Paddenstoelen,Inocybe sambucina,NULL,Witte heidevezelkop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Lactarius aspideus,Paddenstoelen,Lactarius aspideus,NULL,Violetvlekkende moerasmelkzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Lactarius omphaliformis,Paddenstoelen,Lactarius omphaliformis,NULL,Rossige elzenmelkzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Lactarius trivialis,Paddenstoelen,Lactarius trivialis,NULL,Forse melkzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Lepiota oreadiformis,Paddenstoelen,Lepiota oreadiformis,NULL,Gladde wolsteelparasolzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Lyophyllum palustre,Paddenstoelen,Lyophyllum palustre,NULL,Veenmosgrauwkop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Mycena megaspora,Paddenstoelen,Mycena megaspora,NULL,Veenmycena,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Omphalina mutila,Paddenstoelen,Omphalina mutila,NULL,Wit heidetrechtertje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Peziza subviolacea,Paddenstoelen,Peziza subviolacea,NULL,Violette brandplekbekerzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Phellodon confluens,Paddenstoelen,Phellodon confluens,NULL,Wollige stekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Phellodon connatus,Paddenstoelen,Phellodon connatus,NULL,Tengere stekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Phellodon niger,Paddenstoelen,Phellodon niger,NULL,Blauwzwarte stekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Pholiota highlandensis,Paddenstoelen,Pholiota highlandensis,NULL,Brandplekbundelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Pholiota myosotis,Paddenstoelen,Pholiota myosotis,NULL,Moerasbundelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Rhizina undulata,Paddenstoelen,Rhizina undulata,NULL,Oliebolzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Russula insignis,Paddenstoelen,Russula insignis,NULL,Verkleurende kamrussula,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Russula laurocerasi,Paddenstoelen,Russula laurocerasi,NULL,Amandelrussula,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Russula paludosa,Paddenstoelen,Russula paludosa,NULL,Appelrussula,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Russula pumila,Paddenstoelen,Russula pumila,NULL,Elzenrussula,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Russula sanguinaria,Paddenstoelen,Russula sanguinaria,NULL,Bloedrode russula,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Russula virescens,Paddenstoelen,Russula virescens,NULL,Ruwe russula,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Sarcodon joeides,Paddenstoelen,Sarcodon joeides,NULL,Avondroodstekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Sarcodon lepidus,Paddenstoelen,Sarcodon lepidus,NULL,Fraaie stekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Sarcodon scabrosus,Paddenstoelen,Sarcodon scabrosus,NULL,Blauwvoetstekelzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Tricholoma albobrunneum,Paddenstoelen,Tricholoma albobrunneum,NULL,Witbruine ridderzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Tricholoma columbetta,Paddenstoelen,Tricholoma columbetta,NULL,Witte duifridderzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Tricholoma imbricatum,Paddenstoelen,Tricholoma imbricatum,NULL,Fijnschubbige ridderzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Tricholoma portentosum,Paddenstoelen,Tricholoma portentosum,NULL,Glanzende ridderzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Tricholoma saponaceum,Paddenstoelen,Tricholoma saponaceum,NULL,Zeepzwam,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,
+Provinciaal belangrijke soorten - Antwerpen,Vipera berus,Reptielen,Vipera berus,NULL,Adder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Agroeca dentigera,Spinnen,Agroeca dentigera,NULL,Tandjesbodemspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Araeoncus crassiceps,Spinnen,Araeoncus crassiceps,NULL,Arrogant voorkopje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Argyroneta aquatica,Spinnen,Argyroneta aquatica,NULL,Waterspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Centromerus incilium,Spinnen,Centromerus incilium,NULL,Glad tandpalpje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cercidia prominens,Spinnen,Cercidia prominens,NULL,Stekelrugje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cheiracanthium erraticum,Spinnen,Cheiracanthium erraticum,NULL,Heidezakspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Clubiona frutetorum,Spinnen,Clubiona frutetorum,NULL,Weidezakspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Entelecara acuminata,Spinnen,Entelecara acuminata,NULL,Voorkop-struikdwergspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Erigonella hiemalis,Spinnen,Erigonella hiemalis,NULL,Putkop-ruwborstje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Microlinyphia pusilla,Spinnen,Microlinyphia pusilla,NULL,Kleine heidehangmatspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Satilatlas britteni,Spinnen,Satilatlas britteni,NULL,Donker dwergstekelpootje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Silometopus bonessi,Spinnen,Silometopus bonessi,NULL,Hoogveen-groefkopje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Tibellus oblongus,Spinnen,Tibellus oblongus,NULL,Gewone sprietspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Walckenaeria alticeps,Spinnen,Walckenaeria alticeps,NULL,Gehoornd schaduwdubbelkopje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Zelotes aeneus,Spinnen,Zelotes aeneus,NULL,Rotskampoot,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Zora pardalis,Spinnen,Zora pardalis,NULL,Panterstekelpoot,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Gryllotalpa gryllotalpa,Sprinkhanen,Gryllotalpa gryllotalpa,NULL,Veenmol,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Metrioptera brachyptera,Sprinkhanen,Metrioptera brachyptera,NULL,Heidesabelsprinkhaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Omocestus viridulus,Sprinkhanen,Omocestus viridulus,NULL,Wekkertje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pseudochorthippus montanus,Sprinkhanen,Pseudochorthippus montanus,NULL,Zompsprinkhaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Stethophyma grossum,Sprinkhanen,Stethophyma grossum,NULL,Moerassprinkhaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Apium repens (Jacq.) Lag.,Vaatplanten,Apium repens,(Jacq.) Lag.,Kruipend moerasscherm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Armeria maritima Willd.,Vaatplanten,Armeria maritima,Willd.,Engels gras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Baldellia ranunculoides (L.) Parl.,Vaatplanten,Baldellia ranunculoides,(L.) Parl.,Moerasweegbree,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Campanula rotundifolia L.,Vaatplanten,Campanula rotundifolia,L.,Grasklokje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex diandra Schrank,Vaatplanten,Carex diandra,Schrank,Ronde zegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex dioica L.,Vaatplanten,Carex dioica,L.,Tweehuizige zegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex hostiana DC.,Vaatplanten,Carex hostiana,DC.,Blonde zegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex lasiocarpa Ehrh.,Vaatplanten,Carex lasiocarpa,Ehrh.,Draadzegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex pulicaris L.,Vaatplanten,Carex pulicaris,L.,Vlozegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex reichenbachii Bonnet,Vaatplanten,Carex reichenbachii,Bonnet,Valse zandzegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cladium mariscus (L.) Pohl,Vaatplanten,Cladium mariscus,(L.) Pohl,Galigaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cochlearia officinalis L.,Vaatplanten,Cochlearia officinalis,L.,Echt lepelblad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Corynephorus canescens (L.) Beauv.,Vaatplanten,Corynephorus canescens,(L.) Beauv.,Buntgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Deschampsia setacea (Huds.) Hack.,Vaatplanten,Deschampsia setacea,(Huds.) Hack.,Moerassmele,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Diphasiastrum tristachyum (Pursh) Holub,Vaatplanten,Diphasiastrum tristachyum,(Pursh) Holub,Kleine wolfsklauw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Drosera rotundifolia L.,Vaatplanten,Drosera rotundifolia,L.,Ronde zonnedauw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eleocharis quinqueflora (F.X. Hartm.) O. Schwartz,Vaatplanten,Eleocharis quinqueflora,(F.X. Hartm.) O. Schwartz,Armbloemige waterbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Epipactis palustris (L.) Crantz,Vaatplanten,Epipactis palustris,(L.) Crantz,Moeraswespenorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Equisetum hyemale L.,Vaatplanten,Equisetum hyemale,L.,Schaafstro,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Erica tetralix L.,Vaatplanten,Erica tetralix,L.,Gewone dophei,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eriophorum angustifolium Honck.,Vaatplanten,Eriophorum angustifolium,Honck.,Veenpluis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eriophorum gracile Koch ex Roth,Vaatplanten,Eriophorum gracile,Koch ex Roth,Slank wollegras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eriophorum latifolium Hoppe,Vaatplanten,Eriophorum latifolium,Hoppe,Breed wollegras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Genista anglica L.,Vaatplanten,Genista anglica,L.,Stekelbrem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Genista tinctoria L.,Vaatplanten,Genista tinctoria,L.,Verfbrem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Gentiana pneumonanthe L.,Vaatplanten,Gentiana pneumonanthe,L.,Klokjesgentiaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Juncus alpinoarticulatus Chaix,Vaatplanten,Juncus alpinoarticulatus,Chaix,Alpenrus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Juncus tenageia L. f.,Vaatplanten,Juncus tenageia,L. f.,Wijdbloeiende rus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Leucojum aestivum L.,Vaatplanten,Leucojum aestivum,L.,Zomerklokje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Liparis loeselii (L.) L.C.M. Rich.,Vaatplanten,Liparis loeselii,(L.) L.C.M. Rich.,Groenknolorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Littorella uniflora (L.) Aschers.,Vaatplanten,Littorella uniflora,(L.) Aschers.,Oeverkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Ludwigia palustris (L.) S. Elliott,Vaatplanten,Ludwigia palustris,(L.) S. Elliott,Waterlepeltje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Luronium natans (L.) Rafin.,Vaatplanten,Luronium natans,(L.) Rafin.,Drijvende waterweegbree,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Lysimachia thyrsiflora L.,Vaatplanten,Lysimachia thyrsiflora,L.,Moeraswederik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Melampyrum pratense L.,Vaatplanten,Melampyrum pratense,L.,Hengel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Monotropa hypopitys L.,Vaatplanten,Monotropa hypopitys,L.,Stofzaad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Myrica gale L.,Vaatplanten,Myrica gale,L.,Wilde gagel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Myriophyllum alterniflorum DC.,Vaatplanten,Myriophyllum alterniflorum,DC.,Teer vederkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Myriophyllum verticillatum L.,Vaatplanten,Myriophyllum verticillatum,L.,Kransvederkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Nardus stricta L.,Vaatplanten,Nardus stricta,L.,Borstelgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Narthecium ossifragum (L.) Huds.,Vaatplanten,Narthecium ossifragum,(L.) Huds.,Beenbreek,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Oreopteris limbosperma (Bellardi ex All.) Holub,Vaatplanten,Oreopteris limbosperma,(Bellardi ex All.) Holub,Stippelvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Pedicularis sylvatica L.,Vaatplanten,Pedicularis sylvatica,L.,Heidekartelblad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Pilularia globulifera L.,Vaatplanten,Pilularia globulifera,L.,Pilvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Plantago maritima L.,Vaatplanten,Plantago maritima,L.,Zeeweegbree,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton acutifolius Link,Vaatplanten,Potamogeton acutifolius,Link,Spits fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton compressus L.,Vaatplanten,Potamogeton compressus,L.,Plat fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton friesii Rupr.,Vaatplanten,Potamogeton friesii,Rupr.,Puntig fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton gramineus L.,Vaatplanten,Potamogeton gramineus,L.,Ongelijkbladig fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton perfoliatus L.,Vaatplanten,Potamogeton perfoliatus,L.,Doorgroeid fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Radiola linoides Roth,Vaatplanten,Radiola linoides,Roth,Dwergvlas,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Ranunculus ololeucos Lloyd,Vaatplanten,Ranunculus ololeucos,Lloyd,Witte waterranonkel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Ranunculus penicillatus (Dum.) Bab.,Vaatplanten,Ranunculus penicillatus,(Dum.) Bab.,Penseelbladige waterranonkel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Ranunculus tripartitus DC.,Vaatplanten,Ranunculus tripartitus,DC.,Driedelige waterranonkel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Rhynchospora alba (L.) Vahl,Vaatplanten,Rhynchospora alba,(L.) Vahl,Witte snavelbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Rhynchospora fusca (L.) Ait. f.,Vaatplanten,Rhynchospora fusca,(L.) Ait. f.,Bruine snavelbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Salix repens L.,Vaatplanten,Salix repens,L.,Kruipwilg,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Sanguisorba officinalis L.,Vaatplanten,Sanguisorba officinalis,L.,Grote pimpernel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Schoenoplectus pungens (Vahl) Palla,Vaatplanten,Schoenoplectus pungens,(Vahl) Palla,Stekende bies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Scleranthus annuus L.,Vaatplanten,Scleranthus annuus,L.,Eenjarige hardbloem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Solidago virgaurea L.,Vaatplanten,Solidago virgaurea,L.,Echte guldenroede,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Sonchus palustris L.,Vaatplanten,Sonchus palustris,L.,Moerasmelkdistel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Sparganium angustifolium Michaux,Vaatplanten,Sparganium angustifolium,Michaux,Drijvende egelskop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Sparganium natans L.,Vaatplanten,Sparganium natans,L.,Kleinste egelskop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Stratiotes aloides L.,Vaatplanten,Stratiotes aloides,L.,Krabbenscheer,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Succisa pratensis Moench,Vaatplanten,Succisa pratensis,Moench,Blauwe knoop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Teesdalia nudicaulis (L.) R. Brown,Vaatplanten,Teesdalia nudicaulis,(L.) R. Brown,Klein tasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Thymus serpyllum L.,Vaatplanten,Thymus serpyllum,L.,Kleine tijm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Trichophorum cespitosus (L.) Hartm.,Vaatplanten,Trichophorum cespitosus,(L.) Hartm.,Veenbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Triglochin maritima L.,Vaatplanten,Triglochin maritima,L.,Schorrenzoutgras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia australis R. Brown,Vaatplanten,Utricularia australis,R. Brown,Loos blaasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia intermedia Hayne,Vaatplanten,Utricularia intermedia,Hayne,Plat blaasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia minor L.,Vaatplanten,Utricularia minor,L.,Klein blaasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia vulgaris L.,Vaatplanten,Utricularia vulgaris,L.,Groot blaasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Vaccinium oxycoccos L.,Vaatplanten,Vaccinium oxycoccos,L.,Kleine veenbes,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Valeriana dioica L.,Vaatplanten,Valeriana dioica,L.,Kleine valeriaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Veronica longifolia L.,Vaatplanten,Veronica longifolia,L.,Lange ereprijs,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Wahlenbergia hederacea (L.) Reichenb.,Vaatplanten,Wahlenbergia hederacea,(L.) Reichenb.,Klimopklokje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cobitis taenia,Vissen,Cobitis taenia,NULL,Kleine modderkruiper,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cottus perifretum,Vissen,Cottus perifretum,NULL,Rivierdonderpad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cottus perifretum/rhenanus,Vissen,Cottus perifretum,NULL,Rivierdonderpad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cottus perifretum/rhenanus,Vissen,Cottus rhenanus,NULL,Beekdonderpad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lampetra fluviatilis,Vissen,Lampetra fluviatilis,NULL,Rivierprik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Martes martes,Zoogdieren,Martes martes,NULL,Boommarter,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Neomys fodiens,Zoogdieren,Neomys fodiens,NULL,Waterspitsmuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Barbastella barbastellus,Zoogdieren,Barbastella barbastellus,NULL,Mopsvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Eptesicus serotinus,Zoogdieren,Eptesicus serotinus,NULL,Laatvlieger,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis bechsteinii,Zoogdieren,Myotis bechsteinii,NULL,Bechsteins vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis brandtii,Zoogdieren,Myotis brandtii,NULL,Brandts vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis dasycneme,Zoogdieren,Myotis dasycneme,NULL,Meervleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis daubentonii,Zoogdieren,Myotis daubentonii,NULL,Watervleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis emarginatus,Zoogdieren,Myotis emarginatus,NULL,Ingekorven vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis myotis,Zoogdieren,Myotis myotis,NULL,Vale vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis mystacinus,Zoogdieren,Myotis mystacinus,NULL,Baardvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myotis nattereri,Zoogdieren,Myotis nattereri,NULL,Franjestaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Nyctalus leisleri,Zoogdieren,Nyctalus leisleri,NULL,Bosvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Nyctalus noctula,Zoogdieren,Nyctalus noctula,NULL,Rosse vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pipistrellus nathusii,Zoogdieren,Pipistrellus nathusii,NULL,Ruige dwergvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pipistrellus pipistrellus,Zoogdieren,Pipistrellus pipistrellus,NULL,Gewone dwergvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pipistrellus pygmaeus,Zoogdieren,Pipistrellus pygmaeus,NULL,Kleine dwergvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Plecotus auritus,Zoogdieren,Plecotus auritus,NULL,Gewone grootoorvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Plecotus austriacus,Zoogdieren,Plecotus austriacus,NULL,Grijze grootoorvleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Rhinolophus ferrumequinum,Zoogdieren,Rhinolophus ferrumequinum,NULL,Grote hoefijzerneus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Rhinolophus hipposideros,Zoogdieren,Rhinolophus hipposideros,NULL,Kleine hoefijzerneus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Vespertilio murinus,Zoogdieren,Vespertilio murinus,NULL,Tweekleurige vleermuis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Hyla arborea,Amfibieën,Hyla arborea,NULL,Boomkikker,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Triturus cristatus,Amfibieën,Triturus cristatus,"(Laurenti, 1768)",Kamsalamander,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Hamatocaulis vernicosus (Mitt.) Hedenäs,Bladmossen,Hamatocaulis vernicosus,(Mitt.) Hedenäs,Geel schorpioenmos,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Accipiter gentilis,Vogels,Accipiter gentilis,NULL,Havik,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Acrocephalus palustris,Vogels,Acrocephalus palustris,NULL,Bosrietzanger,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Aegithalos caudatus,Vogels,Aegithalos caudatus,NULL,Staartmees,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anthus pratensis,Vogels,Anthus pratensis,NULL,Graspieper,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Athene noctua,Vogels,Athene noctua,NULL,Steenuil,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Botaurus stellaris,Vogels,Botaurus stellaris,NULL,Roerdomp,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Bubo bubo,Vogels,Bubo bubo,NULL,Oehoe,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Caprimulgus europaeus,Vogels,Caprimulgus europaeus,NULL,Nachtzwaluw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Charadrius dubius,Vogels,Charadrius dubius,NULL,Kleine plevier,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Ciconia ciconia,Vogels,Ciconia ciconia,NULL,Ooievaar,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Circus aeruginosus,Vogels,Circus aeruginosus,NULL,Bruine kiekendief,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Coccothraustes coccothraustes,Vogels,Coccothraustes coccothraustes,NULL,Appelvink,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Corvus corax,Vogels,Corvus corax,NULL,Raaf,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Corvus frugilegus,Vogels,Corvus frugilegus,NULL,Roek,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Crex crex,Vogels,Crex crex,NULL,Kwartelkoning,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cyanecula svecica,Vogels,Luscinia svecica,NULL,Blauwborst,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Dendrocopos major,Vogels,Dendrocopos major,NULL,Grote bonte specht,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Dendrocopos minor,Vogels,Dendrocopos minor,NULL,Kleine bonte specht,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Falco peregrinus,Vogels,Falco peregrinus,NULL,Slechtvalk,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Ficedula hypoleuca,Vogels,Ficedula hypoleuca,NULL,Bonte vliegenvanger,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Haematopus ostralegus,Vogels,Haematopus ostralegus,NULL,Scholekster,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Himantopus himantopus,Vogels,Himantopus himantopus,NULL,Steltkluut,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Ichtyaetus melanocephalus,Vogels,Ichthyaetus melanocephalus,NULL,Zwartkopmeeuw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Ixobrychus minutus,Vogels,Ixobrychus minutus,NULL,Woudaap,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lanius collurio,Vogels,Lanius collurio,NULL,Grauwe klauwier,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Leiopicus medius,Vogels,Dendrocoptes medius,NULL,Middelste bonte specht,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Limosa limosa,Vogels,Limosa limosa,NULL,Grutto,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Locustella naevia,Vogels,Locustella naevia,NULL,Sprinkhaanzanger,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Loxia curvirostra,Vogels,Loxia curvirostra,NULL,Kruisbek,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Numenius arquata,Vogels,Numenius arquata,NULL,Wulp,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Oenanthe oenanthe,Vogels,Oenanthe oenanthe,NULL,Tapuit,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Passer domesticus,Vogels,Passer domesticus,NULL,Huismus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pernis apivorus,Vogels,Pernis apivorus,NULL,Wespendief,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Phoenicurus phoenicurus,Vogels,Phoenicurus phoenicurus,NULL,Gekraagde roodstaart,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Phylloscopus sibilatrix,Vogels,Phylloscopus sibilatrix,NULL,Fluiter,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Phylloscopus trochilus,Vogels,Phylloscopus trochilus,NULL,Fitis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Poecile montanus,Vogels,Poecile montanus,NULL,Matkop,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pyrrhula pyrrhula,Vogels,Pyrrhula pyrrhula,NULL,Goudvink,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Regulus regulus,Vogels,Regulus regulus,NULL,Goudhaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Saxicola rubetra,Vogels,Saxicola rubetra,NULL,Paapje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Saxicola torquatus,Vogels,Saxicola rubicola,NULL,Roodborsttapuit,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Scolopax rusticola,Vogels,Scolopax rusticola,NULL,Houtsnip,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sitta europaea,Vogels,Sitta europaea,NULL,Boomklever,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sterna hirundo,Vogels,Sterna hirundo,NULL,Visdief,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Streptopelia turtur,Vogels,Streptopelia turtur,NULL,Zomertortel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Strix aluco,Vogels,Strix aluco,NULL,Bosuil,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sylvia curruca,Vogels,Sylvia curruca,NULL,Braamsluiper,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Tachybaptus ruficollis,Vogels,Tachybaptus ruficollis,NULL,Dodaars,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Tringa totanus,Vogels,Tringa totanus,NULL,Tureluur,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Vanellus vanellus,Vogels,Vanellus vanellus,NULL,Kievit,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Apatura iris,Dagvlinders,Apatura iris,NULL,Grote weerschijnvlinder,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Favonius quercus,Dagvlinders,Favonius quercus,NULL,Eikenpage,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Hesperia comma,Dagvlinders,Hesperia comma,NULL,Kommavlinder,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Hipparchia semele,Dagvlinders,Hipparchia semele,"(Linnaeus, 1758)",Heivlinder,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Issoria lathonia,Dagvlinders,Issoria lathonia,NULL,Kleine parelmoervlinder,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lycaena tityrus,Dagvlinders,Lycaena tityrus,NULL,Bruine vuurvlinder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Pyrgus malvae,Dagvlinders,Pyrgus malvae,NULL,Aardbeivlinder,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Satyrium ilicis,Dagvlinders,Satyrium ilicis,NULL,Bruine eikenpage,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Brachytron pratense,Libellen,Brachytron pratense,NULL,Glassnijder,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Calopteryx splendens,Libellen,Calopteryx splendens,NULL,Weidebeekjuffer,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cordulegaster boltonii,Libellen,Cordulegaster boltonii,NULL,Gewone bronlibel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Leucorrhinia caudalis,Libellen,Leucorrhinia caudalis,NULL,Sierlijke witsnuitlibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Leucorrhinia dubia,Libellen,Leucorrhinia dubia,NULL,Venwitsnuitlibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Libellula fulva,Libellen,Libellula fulva,NULL,Bruine korenbout,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Somatochlora arctica,Libellen,Somatochlora arctica,NULL,Hoogveenglanslibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Stylurus flavipes,Libellen,Stylurus flavipes,NULL,Rivierrombout,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sympetrum danae,Libellen,Sympetrum danae,NULL,Zwarte heidelibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sympetrum depressiusculum,Libellen,Sympetrum depressiusculum,NULL,Kempense heidelibel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sympetrum flaveolum,Libellen,Sympetrum flaveolum,NULL,Geelvlekheidelibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sympetrum pedemontanum,Libellen,Sympetrum pedemontanum,NULL,Bandheidelibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Sympetrum vulgatum,Libellen,Sympetrum vulgatum,NULL,Steenrode heidelibel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Vertigo moulinsiana,Weekdieren,Vertigo moulinsiana,NULL,Zeggenkorfslak,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Euplagia quadripunctaria,Nachtvlinders,Euplagia quadripunctaria,NULL,Spaanse vlag,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Proserpinus proserpina,Nachtvlinders,Proserpinus proserpina,NULL,Teunisbloempijlstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anas acuta,Vogels,Anas acuta,NULL,Pijlstaart,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anas crecca,Vogels,Anas crecca,NULL,Wintertaling,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anser albifrons,Vogels,Anser albifrons,NULL,Kolgans,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anser anser,Vogels,Anser anser,NULL,Grauwe gans,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anser serrirostris,Vogels,Anser serrirostris,NULL,Toendrarietgans,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Aythya ferina,Vogels,Aythya ferina,NULL,Tafeleend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Aythya fuligula,Vogels,Aythya fuligula,NULL,Kuifeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Casmerodius albus,Vogels,Ardea alba,NULL,Grote zilverreiger,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cygnus columbianus,Vogels,Cygnus columbianus,NULL,Kleine zwaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Mareca penelope,Vogels,Mareca penelope,NULL,Smient,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Mareca strepera,Vogels,Mareca strepera,NULL,Krakeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Spatula clypeata,Vogels,Spatula clypeata,NULL,Slobeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Tadorna tadorna,Vogels,Tadorna tadorna,NULL,Bergeend,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anguis fragilis,Reptielen,Anguis fragilis,NULL,Hazelworm,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Coronella austriaca,Reptielen,Coronella austriaca,NULL,Gladde slang,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Zootoca vivipara,Reptielen,Zootoca vivipara,NULL,Levendbarende hagedis,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Cucujus cinnaberinus,Saproxyle kevers,Cucujus cinnaberinus,NULL,Vermiljoenkever,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Dolomedes fimbriatus,Spinnen,Dolomedes fimbriatus,NULL,Gerande oeverspin,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Gryllus campestris,Sprinkhanen,Gryllus campestris,NULL,Veldkrekel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Metrioptera brachyptera,Sprinkhanen,Metrioptera brachyptera,NULL,Heidesabelsprinkhaan,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Myrmeleotettix maculatus,Sprinkhanen,Myrmeleotettix maculatus,NULL,Knopsprietje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Omocestus rufipes,Sprinkhanen,Omocestus rufipes,NULL,Zwart wekkertje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Stethophyma grossum,Sprinkhanen,Stethophyma grossum,NULL,Moerassprinkhaan,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Alisma gramineum,Vaatplanten,Alisma gramineum,Lej.,Smalle waterweegbree,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Andromeda polifolia,Vaatplanten,Andromeda polifolia,L.,Lavendelhei,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Anthyllis vulneraria,Vaatplanten,Anthyllis vulneraria,L.,Wondklaver,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Apium repens,Vaatplanten,Apium repens,(Jacq.) Lag.,Kruipend moerasscherm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Arnoseris minima,Vaatplanten,Arnoseris minima,(L.) Schweigg. et Körte,Korensla,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Asplenium septentrionale,Vaatplanten,Asplenium septentrionale,(L.) Hoffmann,Noordse streepvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Blechnum spicant,Vaatplanten,Blechnum spicant,(L.) Roth,Dubbelloof,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Briza media,Vaatplanten,Briza media,L.,Bevertjes,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Calla palustris,Vaatplanten,Calla palustris,L.,Slangenwortel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Callitriche hamulata,Vaatplanten,Callitriche hamulata,Kütz. ex Koch,Haaksterrenkroos,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Calluna vulgaris,Vaatplanten,Calluna vulgaris,(L.) Hull,Struikhei,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex canescens,Vaatplanten,Carex canescens,L.,Zompzegge,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex diandra,Vaatplanten,Carex diandra,Schrank,Ronde zegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex dioica,Vaatplanten,Carex dioica,L.,Tweehuizige zegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex elongata,Vaatplanten,Carex elongata,L.,Elzenzegge,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex hostiana,Vaatplanten,Carex hostiana,DC.,Blonde zegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex pilulifera,Vaatplanten,Carex pilulifera,L.,Pilzegge,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex pulicaris,Vaatplanten,Carex pulicaris,L.,Vlozegge,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex rostrata,Vaatplanten,Carex rostrata,Stokes,Snavelzegge,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Carex viridula s.l.,Vaatplanten,Carex viridula,s.l.,Dwergzegge groep,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cicendia filiformis,Vaatplanten,Cicendia filiformis,(L.) Delarbre,Draadgentiaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cicuta virosa,Vaatplanten,Cicuta virosa,L.,Waterscheerling,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cirsium dissectum,Vaatplanten,Cirsium dissectum,(L.) Hill,Spaanse ruiter,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cladium mariscus,Vaatplanten,Cladium mariscus,(L.) Pohl,Galigaan,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Comarum palustre,Vaatplanten,Comarum palustre,L.,Wateraardbei,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Convallaria majalis,Vaatplanten,Convallaria majalis,L.,Lelietje-van-dalen,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Corynephorus canescens,Vaatplanten,Corynephorus canescens,(L.) Beauv.,Buntgras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Cuscuta epithymum,Vaatplanten,Cuscuta epithymum,(L.) L.,Klein warkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Danthonia decumbens,Vaatplanten,Danthonia decumbens,(L.) DC.,Tandjesgras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Deschampsia setacea,Vaatplanten,Deschampsia setacea,(Huds.) Hack.,Moerassmele,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Digitalis purpurea,Vaatplanten,Digitalis purpurea,L.,Vingerhoedskruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Drosera intermedia,Vaatplanten,Drosera intermedia,Hayne,Kleine zonnedauw,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Drosera rotundifolia,Vaatplanten,Drosera rotundifolia,L.,Ronde zonnedauw,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Dryopteris affinis,Vaatplanten,Dryopteris affinis,NULL,Geschubde mannetjesvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Elatine hexandra,Vaatplanten,Elatine hexandra,(Lapierre) DC.,Gesteeld glaskroos,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eleocharis acicularis,Vaatplanten,Eleocharis acicularis,(L.) Roem. et Schult.,Naaldwaterbies,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eleocharis quinqueflora,Vaatplanten,Eleocharis quinqueflora,(F.X. Hartm.) O. Schwartz,Armbloemige waterbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Erica cinerea,Vaatplanten,Erica cinerea,L.,Rode dophei,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Erica tetralix,Vaatplanten,Erica tetralix,L.,Gewone dophei,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eriophorum angustifolium,Vaatplanten,Eriophorum angustifolium,Honck.,Veenpluis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eriophorum gracile,Vaatplanten,Eriophorum gracile,Koch ex Roth,Slank wollegras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eriophorum latifolium,Vaatplanten,Eriophorum latifolium,Hoppe,Breed wollegras,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Eriophorum vaginatum,Vaatplanten,Eriophorum vaginatum,L.,Eenarig wollegras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Filago minima,Vaatplanten,Filago minima,(Smith) Pers.,Dwergviltkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Genista anglica,Vaatplanten,Genista anglica,L.,Stekelbrem,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Genista pilosa,Vaatplanten,Genista pilosa,L.,Kruipbrem,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Gentiana pneumonanthe,Vaatplanten,Gentiana pneumonanthe,L.,Klokjesgentiaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Gratiola officinalis,Vaatplanten,Gratiola officinalis,L.,Genadekruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Hammarbya paludosa,Vaatplanten,Hammarbya paludosa,(L.) O. Kuntze,Veenmosorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Hydrocharis morsus-ranae,Vaatplanten,Hydrocharis morsus-ranae,L.,Kikkerbeet,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Hypericum elodes,Vaatplanten,Hypericum elodes,L.,Moerashertshooi,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Hypericum humifusum,Vaatplanten,Hypericum humifusum,L.,Liggend hertshooi,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Isolepis fluitans,Vaatplanten,Isolepis fluitans,(L.) R. Brown,Vlottende bies,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Juncus alpinoarticulatus,Vaatplanten,Juncus alpinoarticulatus,Chaix,Alpenrus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Juncus filiformis,Vaatplanten,Juncus filiformis,L.,Draadrus,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Juncus squarrosus,Vaatplanten,Juncus squarrosus,L.,Trekrus,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Juncus tenageia,Vaatplanten,Juncus tenageia,L. f.,Wijdbloeiende rus,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Leucojum aestivum,Vaatplanten,Leucojum aestivum,L.,Zomerklokje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Liparis loeselii,Vaatplanten,Liparis loeselii,(L.) L.C.M. Rich.,Groenknolorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Littorella uniflora,Vaatplanten,Littorella uniflora,(L.) Aschers.,Oeverkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Lobelia dortmanna,Vaatplanten,Lobelia dortmanna,L.,Waterlobelia,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Lonicera periclymenum,Vaatplanten,Lonicera periclymenum,L.,Wilde kamperfoelie,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Luronium natans,Vaatplanten,Luronium natans,(L.) Rafin.,Drijvende waterweegbree,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Luzula multiflora,Vaatplanten,Luzula multiflora,(Ehrh.) Lej.,Veelbloemige veldbies,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Lycopodiella inundata,Vaatplanten,Lycopodiella inundata,(L.) Holub,Moeraswolfsklauw,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Lycopodium clavatum,Vaatplanten,Lycopodium clavatum,L.,Grote wolfsklauw,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Lysimachia thyrsiflora,Vaatplanten,Lysimachia thyrsiflora,L.,Moeraswederik,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Maianthemum bifolium,Vaatplanten,Maianthemum bifolium,(L.) F.W. Schmidt,Dalkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Menyanthes trifoliata,Vaatplanten,Menyanthes trifoliata,L.,Waterdrieblad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Myrica gale,Vaatplanten,Myrica gale,L.,Wilde gagel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Myriophyllum alterniflorum,Vaatplanten,Myriophyllum alterniflorum,DC.,Teer vederkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Myriophyllum verticillatum,Vaatplanten,Myriophyllum verticillatum,L.,Kransvederkruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Nardus stricta,Vaatplanten,Nardus stricta,L.,Borstelgras,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Narthecium ossifragum,Vaatplanten,Narthecium ossifragum,(L.) Huds.,Beenbreek,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Nymphoides peltata,Vaatplanten,Nymphoides peltata,(S.G. Gmel.) O. Kuntze,Watergentiaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Osmunda regalis,Vaatplanten,Osmunda regalis,L.,Koningsvaren,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Pedicularis sylvatica,Vaatplanten,Pedicularis sylvatica,L.,Heidekartelblad,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Pilularia globulifera,Vaatplanten,Pilularia globulifera,L.,Pilvaren,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Platanthera bifolia,Vaatplanten,Platanthera bifolia,(L.) L.C.M. Rich.,Welriekende nachtorchis,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Polygala serpyllifolia,Vaatplanten,Polygala serpyllifolia,Hose,Liggende vleugeltjesbloem,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Populus nigra var. nigra,Vaatplanten,Populus nigra L. var. nigra,NULL,Zwarte populier var. nigra,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton acutifolius,Vaatplanten,Potamogeton acutifolius,Link,Spits fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton alpinus,Vaatplanten,Potamogeton alpinus,Balb.,Rossig fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton coloratus,Vaatplanten,Potamogeton coloratus,Hornem.,Weegbreefonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton compressus,Vaatplanten,Potamogeton compressus,L.,Plat fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton friesii,Vaatplanten,Potamogeton friesii,Rupr.,Puntig fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton gramineus,Vaatplanten,Potamogeton gramineus,L.,Ongelijkbladig fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton lucens,Vaatplanten,Potamogeton lucens,L.,Glanzig fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Potamogeton perfoliatus,Vaatplanten,Potamogeton perfoliatus,L.,Doorgroeid fonteinkruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Pteridium aquilinum,Vaatplanten,Pteridium aquilinum,(L.) Kuhn,Adelaarsvaren,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Radiola linoides,Vaatplanten,Radiola linoides,Roth,Dwergvlas,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Ranunculus ololeucos,Vaatplanten,Ranunculus ololeucos,Lloyd,Witte waterranonkel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Ranunculus peltatus,Vaatplanten,Ranunculus peltatus,Schrank,Grote waterranonkel,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Rhinanthus minor,Vaatplanten,Rhinanthus minor,L.,Kleine ratelaar,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Rhynchospora alba,Vaatplanten,Rhynchospora alba,(L.) Vahl,Witte snavelbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Rhynchospora fusca,Vaatplanten,Rhynchospora fusca,(L.) Ait. f.,Bruine snavelbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Ribes nigrum,Vaatplanten,Ribes nigrum,L.,Zwarte bes,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Sanguisorba officinalis,Vaatplanten,Sanguisorba officinalis,L.,Grote pimpernel,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Schoenoplectus pungens,Vaatplanten,Schoenoplectus pungens,(Vahl) Palla,Stekende bies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Schoenus nigricans,Vaatplanten,Schoenus nigricans,L.,Knopbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Silene noctiflora,Vaatplanten,Silene noctiflora,L.,Nachtkoekoeksbloem,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Spergula morisonii,Vaatplanten,Spergula morisonii,Boreau,Heidespurrie,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Stratiotes aloides,Vaatplanten,Stratiotes aloides,L.,Krabbenscheer,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Succisa pratensis,Vaatplanten,Succisa pratensis,Moench,Blauwe knoop,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Teesdalia nudicaulis,Vaatplanten,Teesdalia nudicaulis,(L.) R. Brown,Klein tasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Thelypteris palustris,Vaatplanten,Thelypteris palustris,Schott,Moerasvaren,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Thymus serpyllum,Vaatplanten,Thymus serpyllum,L.,Kleine tijm,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Trichophorum cespitosus,Vaatplanten,Trichophorum cespitosus,(L.) Hartm.,Veenbies,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia australis,Vaatplanten,Utricularia australis,R. Brown,Loos blaasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia intermedia,Vaatplanten,Utricularia intermedia,Hayne,Plat blaasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia minor,Vaatplanten,Utricularia minor,L.,Klein blaasjeskruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Utricularia vulgaris,Vaatplanten,Utricularia vulgaris,L.,Groot blaasjeskruid,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Vaccaria hispanica,Vaatplanten,Vaccaria hispanica,(Mill.) Rauschert,Koekruid,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Vaccinium myrtillus,Vaatplanten,Vaccinium myrtillus,L.,Blauwe bosbes,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Vaccinium oxycoccos,Vaatplanten,Vaccinium oxycoccos,L.,Kleine veenbes,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Valeriana dioica,Vaatplanten,Valeriana dioica,L.,Kleine valeriaan,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Veronica acinifolia,Vaatplanten,Veronica acinifolia,L.,Steentijmereprijs,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Viola canina,Vaatplanten,Viola canina,L.,Hondsviooltje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Viola palustris,Vaatplanten,Viola palustris,L.,Moerasviooltje,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Wahlenbergia hederacea,Vaatplanten,Wahlenbergia hederacea,(L.) Reichenb.,Klimopklokje,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Plantae
+Provinciaal belangrijke soorten - Antwerpen,Alosa fallax,Vissen,Alosa fallax,NULL,Fint,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Anguilla anguilla,Vissen,Anguilla anguilla,NULL,Paling,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Esox lucius,Vissen,Esox lucius,NULL,Snoek,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lampetra planeri,Vissen,Lampetra planeri,NULL,Beekprik,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Leuciscus leuciscus,Vissen,Leuciscus leuciscus,NULL,Serpeling,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lota lota,Vissen,Lota lota,NULL,Kwabaal,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Misgurnus fossilis,Vissen,Misgurnus fossilis,NULL,Grote modderkruiper,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Osmerus eperlanus,Vissen,Osmerus eperlanus,NULL,Spiering,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Platichthys flesus,Vissen,Platichthys flesus,NULL,Bot,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Rhodeus amarus,Vissen,Rhodeus amarus,NULL,Bittervoorn,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Canis lupus,Zoogdieren,Canis lupus,NULL,Wolf,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Castor fiber,Zoogdieren,Castor fiber,NULL,Europese bever,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Lutra lutra,Zoogdieren,Lutra lutra,NULL,Europese otter,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Mustela putorius,Zoogdieren,Mustela putorius,NULL,Bunzing,PBS,Provinciaal belangrijke soorten,PS,Prioritaire soort,Animalia
+Provinciaal belangrijke soorten - Antwerpen,Neomys fodiens,Zoogdieren,Neomys fodiens,NULL,Waterspitsmuis,PBS,Provinciaal belangrijke soorten,HS,Habitattypische soort,Animalia
