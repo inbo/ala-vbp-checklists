@@ -31,7 +31,7 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.delim2(here::here("datasets", "provinciaal_belangrijke_soorten_west_vlaanderen", "data", "raw", "provinciaal_belangrijke_soorten_west_vlaanderen.csv"), sep = ";")
+taxon <- read.delim2(here::here("datasets", "provinciaal_belangrijke_soorten_west_vlaanderen", "data", "raw", "provinciaal_belangrijke_soorten_west_vlaanderen2021.csv"), sep = ";")
 ```
 
 
@@ -114,6 +114,6 @@ taxon <- distinct(taxon, .keep_all = FALSE)
 
 
 ```{r}
-write_csv(taxon, here::here("datasets", "provinciaal_belangrijke_soorten_west_vlaanderen", "data", "processed", "provinciaal_belangrijke_soorten_west_vlaanderen.csv"), na = "")
+write_csv(taxon, here::here("datasets", "provinciaal_belangrijke_soorten_west_vlaanderen", "data", "processed", "provinciaal_belangrijke_soorten_west_vlaanderen2021.csv"), na = "")
 ```
 
