@@ -1,5 +1,5 @@
 ---
-title: "checklist_creation_vbp"
+title: "checklist_creation_vbp non validated red lists"
 author: "Dimitri Brosens"
 date: "2024-08-01"
 output: html_document
@@ -31,17 +31,12 @@ library(mapview)
 Create a data frame `input_data` from the source data:
 
 ```{r}
-taxon <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "taxon.csv"))
+taxon <- read.csv(here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "raw", "taxon.csv"))
 ```
 
 ```{r}
-distribution <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "distribution.csv"))
+distribution <- read.csv(here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "raw", "distribution.csv"))
 ```
-
-```{r}
-description <- read.csv(here::here("datasets", "validated_red_lists_flanders", "data", "raw", "description.csv"))
-```
-
 
 
 Preview data:
@@ -49,9 +44,7 @@ Preview data:
 ```{r}
 taxon %>% head(n = 5)
 ```
-```{r}
-description %>% head(n = 5)
-```
+
 
 ```{r}
 distribution %>% head(n = 5)
@@ -61,7 +54,7 @@ distribution %>% head(n = 5)
 
 
 ```{r}
-vbp_list_validated_red_lists_flanders <- inner_join(taxon, distribution, by = 'taxonID')
+vbp_list_non_validated_red_lists_flanders <- inner_join(taxon, distribution, by = 'taxonID')
 ```
 
 ```{r eval=FALSE, include=FALSE}
@@ -69,16 +62,16 @@ vbp_list_validated_red_lists_flanders <- inner_join(vbp_list_validated_red_lists
 ```
 
 ```{r}
-vbp_list_validated_red_lists_flanders <- unique(vbp_list_validated_red_lists_flanders)
+vbp_list_non_validated_red_lists_flanders <- unique(vbp_list_non_validated_red_lists_flanders)
 ```
 
 
 ```{r}
-vbp_list_validated_red_lists_flanders %>% head(n = 5)
+vbp_list_non_validated_red_lists_flanders %>% head(n = 5)
 ```
 remove obsolete columns
 
-```{r}
+```{r eval=FALSE, include=FALSE}
 vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
                         -"kingdom...1",
                         -"scientificName...2",
@@ -87,7 +80,7 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
 ```
 rename certain columns
 
-```{r}
+```{r eval=FALSE, include=FALSE}
 vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
   "occurrenceStatus" = "occurrenceStatus.x",
   "scientificName" = "scientificName...15",
@@ -100,6 +93,6 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
 
 
 ```{r}
-write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
+write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "processed", "vbp_non_validated_red_lists_flanders.csv"), na = "")
 ```
 
