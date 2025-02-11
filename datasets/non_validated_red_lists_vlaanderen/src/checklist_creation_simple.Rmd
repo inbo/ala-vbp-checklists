@@ -69,6 +69,14 @@ vbp_list_non_validated_red_lists_flanders <- unique(vbp_list_non_validated_red_l
 ```{r}
 vbp_list_non_validated_red_lists_flanders %>% head(n = 5)
 ```
+### filters
+
+```{r}
+vbp_list_non_validated_red_lists_flanders_amphibia <- vbp_list_non_validated_red_lists_flanders %<>% filter(class == 'Amphibia')
+``` 
+
+
+
 remove obsolete columns
 
 ```{r eval=FALSE, include=FALSE}
@@ -93,6 +101,10 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
 
 
 ```{r}
-write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "processed", "vbp_non_validated_red_lists_flanders.csv"), na = "")
+write_csv(vbp_list_non_validated_red_lists_flanders, here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "processed", "vbp_non_validated_red_lists_flanders.csv"), na = "")
+```
+
+```{r}
+write_csv(vbp_list_non_validated_red_lists_flanders_amphibia, here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "processed", "vbp_non_validated_red_lists_flanders_amphibia.csv"), na = "")
 ```
 
