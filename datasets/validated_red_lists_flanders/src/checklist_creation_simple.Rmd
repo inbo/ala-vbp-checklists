@@ -98,7 +98,9 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
 ```{r}
 vbp_list_validated_red_lists_flanders %<>% mutate(datasetID = "https://doi.org/10.15468/8tk3tk")
 ```
-
+```{r}
+vbp_list_validated_red_lists_flanders_pieridae <- vbp_list_validated_red_lists_flanders %<>% filter(genus == 'Pieridae')
+``` 
 
 
 ```{r}
