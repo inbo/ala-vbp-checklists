@@ -82,26 +82,47 @@ remove obsolete columns
 vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
                         -"kingdom...1",
                         -"scientificName...2",
-                        -"occurrenceStatus.y")
+                        -"occurrenceStatus.y",
+                        -"occurrenceStatus.x",
+                        -"language",
+                        -"rightsHolder",
+                        -"nomenclaturalCode",
+                        -"status",
+                        -"datasetName",
+                        -"taxonRank")
  
 ```
 rename certain columns
 
 ```{r}
 vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
-  "occurrenceStatus" = "occurrenceStatus.x",
   "scientificName" = "scientificName...15",
   "kingdom" = "kingdom...20"
   
 )
 ```
+### also use column Status for VBP
+
+```{r}
+vbp_list_validated_red_lists_flanders %<>% mutate(Status = threatStatus)
+```
+
+
 ```{r}
 vbp_list_validated_red_lists_flanders %<>% mutate(datasetID = "https://doi.org/10.15468/8tk3tk")
 ```
 ```{r}
 vbp_list_validated_red_lists_flanders_amphibia <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Amphibia')
+
+```
+```{r}
+vbp_list_validated_red_lists_flanders_aves <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Aves')
 ``` 
 ```{r}
+vbp_list_validated_red_lists_flanders_insecta <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Insecta')
+``` 
+
+```{r eval=FALSE, include=FALSE}
 vbp_list_validated_red_lists_flanders_amphibia <- vbp_list_validated_red_lists_flanders %>%
   filter(class == "Amphibia", threatStatus != "Least Concern (LC)")
 ```
@@ -112,5 +133,13 @@ write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validat
 ```
 
 ```{r}
-write_csv(vbp_list_validated_red_lists_flanders_pieridae, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_pieridae.csv"), na = "")
+write_csv(vbp_list_validated_red_lists_flanders_amphibia, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_amphibia.csv"), na = "")
+```
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_aves, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_aves.csv"), na = "")
+```
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_insecta, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_insecta.csv"), na = "")
 ```
