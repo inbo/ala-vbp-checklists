@@ -104,42 +104,106 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
 ### also use column Status for VBP
 
 ```{r}
-vbp_list_validated_red_lists_flanders %<>% mutate(Status = threatStatus)
+vbp_list_validated_red_lists_flanders %<>% mutate(status = threatStatus)
 ```
 
 
 ```{r}
 vbp_list_validated_red_lists_flanders %<>% mutate(datasetID = "https://doi.org/10.15468/8tk3tk")
 ```
+## AMPHIBIA
 ```{r}
 vbp_list_validated_red_lists_flanders_amphibia <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Amphibia')
 
 ```
+## squamata
+
+```{r}
+vbp_list_validated_red_lists_flanders_squamata <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Squamata')
+
+```
+
+
+## AVES
+
 ```{r}
 vbp_list_validated_red_lists_flanders_aves <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Aves')
-``` 
+```
+
+## INSECTA
 ```{r}
 vbp_list_validated_red_lists_flanders_insecta <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Insecta')
 ``` 
+
+## MAMMALIA
+
+```{r}
+vbp_list_validated_red_lists_flanders_mammalia <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Mammalia')
+``` 
+## PLANTS
+
+```{r}
+vbp_list_validated_red_lists_flanders_plants <- vbp_list_validated_red_lists_flanders %>% filter(kingdom == 'Plantae')
+``` 
+## fish
+
+```{r}
+vbp_list_validated_red_lists_flanders_fish <- vbp_list_validated_red_lists_flanders %>% filter(source == 'Verreycken_etal_2014')
+``` 
+
+
 
 ```{r eval=FALSE, include=FALSE}
 vbp_list_validated_red_lists_flanders_amphibia <- vbp_list_validated_red_lists_flanders %>%
   filter(class == "Amphibia", threatStatus != "Least Concern (LC)")
 ```
 
+## Write all data to folder
+## all
 
 ```{r}
 write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
 ```
 
+## Amphibia
+
 ```{r}
 write_csv(vbp_list_validated_red_lists_flanders_amphibia, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_amphibia.csv"), na = "")
 ```
+
+## squamata
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_amphibia, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_squamata.csv"), na = "")
+```
+
+
+## Aves
 
 ```{r}
 write_csv(vbp_list_validated_red_lists_flanders_aves, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_aves.csv"), na = "")
 ```
 
+## Mammalia
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_mammalia, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_mammalia.csv"), na = "")
+```
+
+## Insecta
+
 ```{r}
 write_csv(vbp_list_validated_red_lists_flanders_insecta, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_insecta.csv"), na = "")
+```
+
+## plants
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_plants, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_plants.csv"), na = "")
+```
+
+## fish
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_fish, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_fish.csv"), na = "")
 ```
