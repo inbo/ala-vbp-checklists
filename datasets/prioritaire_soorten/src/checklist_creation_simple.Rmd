@@ -59,25 +59,15 @@ taxon_core <- taxon_core %>% select(
 ```{r}
 taxon_core <- taxon_core %>%
   mutate(
-    dwc_language             = "en",
-    dwc_license              = paste0("http://creativecommons.org/publicdomain",
-                                      "/zero/1.0/"),
     dwc_rightsHolder         = "INBO",
     dwc_accessRights         = "http://www.inbo.be/en/norms-for-data-use",
-    dwc_institutionCode      = "INBO",
-    dwc_datasetName         = "Prioritaire soorten Vlaanderen",
+    dwc_datasetName          = "Prioritaire soorten Vlaanderen",
     dwc_ownerInstitutionCode = "INBO",
-    #dwc_kingdom              = "Animalia",
-    #dwc_nomenclaturalCode    = "ICZN",
     dwc_taxonRank            = "species",
-    #dwc_eventType            = "Survey",
-    #dwc_samplingProtocol    = "...",
+    dwc_status               = "Prioritaire soort Vlaanderen",
     dwc_continent            = "Europe",
     dwc_country              = "Belgium",
-    dwc_stateProvince        = "Flanders",
-    dwc_countryCode          = "BE",
-    #dwc_basisOfRecord        = "HumanObservation"
-  )
+    dwc_stateProvince        = "Flanders"  )
 ```
 
 # mapped terms
