@@ -101,6 +101,10 @@ vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %
   
 )
 ```
+
+
+
+
 ### also use column Status for VBP
 
 ```{r}
@@ -111,6 +115,47 @@ vbp_list_validated_red_lists_flanders %<>% mutate(status = threatStatus)
 ```{r}
 vbp_list_validated_red_lists_flanders %<>% mutate(datasetID = "https://doi.org/10.15468/8tk3tk")
 ```
+
+```{r}
+vbp_list_validated_red_lists_flanders$status <- iconv(vbp_list_validated_red_lists_flanders$status, from = "", to = "UTF-8")
+
+```
+
+
+
+
+### translate threatstatus to eng
+
+
+```{r}
+vbp_list_validated_red_lists_flanders_threat <- vbp_list_validated_red_lists_flanders %>%
+  mutate(status = str_trim(status),   # witruimte verwijderen
+         status = recode(status,
+                         'Niet geëvalueerd' = 'Not Evaluated (NE)',
+                         'Niet ge�valueerd' = 'Not Evaluated (NE)',  # encoding fallback
+                         'Onvoldoende gekend' = 'Data Deficient (DD)',
+                         'Uitgestorven in Vlaanderen' = 'Regionally Extinct (RE)',
+                         'Met verdwijning bedreigd' = 'Critically Endangered (CR)',
+                         'Bedreigd' = 'Endangered (EN)',
+                         'Kwetsbaar' = 'Vulnerable (VU)',
+                         'Bijna in gevaar' = 'Near Threatened (NT)',
+                         'Achteruitgaand' = 'Declining',
+                         'Niet in gevaar' = 'Least Concern (LC)'
+         ))
+```
+
+
+
+```{r}
+vbp_list_validated_red_lists_flanders_threat %<>%
+  filter(trimws(tolower(status)) %in% tolower(c('Critically Endangered (CR)', 'Endangered (EN)', 'Vulnerable (VU)', 
+                                                'Near Threatened (NT)', 'bedreigd', 'Kwetsbaar', 'Met verdwijning bedreigd','Uitgestorven in Vlaanderen','Regionally Extinct (REX)')))
+
+```
+
+
+
+
 ## AMPHIBIA
 ```{r}
 vbp_list_validated_red_lists_flanders_amphibia <- vbp_list_validated_red_lists_flanders %>% filter(class == 'Amphibia')
@@ -164,6 +209,15 @@ vbp_list_validated_red_lists_flanders_amphibia <- vbp_list_validated_red_lists_f
 ```{r}
 write_csv(vbp_list_validated_red_lists_flanders, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders.csv"), na = "")
 ```
+
+
+## write all 'bedreifd' to folder
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_threat, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_threat.csv"), na = "")
+```
+
+
 
 ## Amphibia
 
