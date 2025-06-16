@@ -71,7 +71,7 @@ vbp_list_non_validated_red_lists_flanders %>% head(n = 5)
 ```
 ### filters
 
-```{r}
+```{r eval=FALSE, include=FALSE}
 vbp_list_non_validated_red_lists_flanders_amphibia <- vbp_list_non_validated_red_lists_flanders %<>% filter(class == 'Amphibia')
 ``` 
 
@@ -79,32 +79,60 @@ vbp_list_non_validated_red_lists_flanders_amphibia <- vbp_list_non_validated_red
 
 remove obsolete columns
 
-```{r eval=FALSE, include=FALSE}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% select(
-                        -"kingdom...1",
-                        -"scientificName...2",
-                        -"occurrenceStatus.y")
+```{r include=FALSE}
+vbp_list_non_validated_red_lists_flanders <- vbp_list_non_validated_red_lists_flanders %>% select(
+                        -"language",
+                        -"accessRights",
+                        -"class",
+                        -"order",
+                        -"family",
+                        -"nomenclaturalCode",
+                        -"license",
+                        -"occurrenceStatus",
+                        -"locationID",
+                        -"eventDate",
+                        -"taxonID",
+                        -"rightsHolder")
  
 ```
 rename certain columns
 
-```{r eval=FALSE, include=FALSE}
-vbp_list_validated_red_lists_flanders <- vbp_list_validated_red_lists_flanders %>% rename(
-  "occurrenceStatus" = "occurrenceStatus.x",
-  "scientificName" = "scientificName...15",
-  "kingdom" = "kingdom...20"
-  
-)
+### also use column Status for VBP
+
+```{r}
+vbp_list_non_validated_red_lists_flanders %<>% mutate(status = threatStatus)
 ```
 
-
+```{r}
+vbp_list_non_validated_red_lists_flanders <- vbp_list_non_validated_red_lists_flanders %>%
+  mutate(status = str_trim(status),   # witruimte verwijderen
+         status = recode(status,
+                         'NE' = 'Not Evaluated (NE)',
+                         'Niet ge�valueerd' = 'Not Evaluated (NE)',  # encoding fallback
+                         'DD' = 'Data Deficient (DD)',
+                         'RE' = 'Regionally Extinct (RE)',
+                         'CR' = 'Critically Endangered (CR)',
+                         'EN' = 'Endangered (EN)',
+                         'VU' = 'Vulnerable (VU)',
+                         'NT' = 'Near Threatened (NT)',
+                         'Achteruitgaand' = 'Declining',
+                         'LC' = 'Least Concern (LC)'
+         ))
+```
 
 
 ```{r}
 write_csv(vbp_list_non_validated_red_lists_flanders, here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "processed", "vbp_non_validated_red_lists_flanders.csv"), na = "")
 ```
 
+
 ```{r}
-write_csv(vbp_list_non_validated_red_lists_flanders_amphibia, here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "processed", "vbp_non_validated_red_lists_flanders_amphibia.csv"), na = "")
+vbp_list_non_validated_red_lists_flanders_threat <- vbp_list_non_validated_red_lists_flanders %>%
+  filter(trimws(tolower(status)) %in% tolower(c('Critically Endangered (CR)', 'Endangered (EN)', 'Vulnerable (VU)', 
+                                                'Near Threatened (NT)', 'bedreigd', 'Kwetsbaar', 'Met verdwijning bedreigd','Uitgestorven in Vlaanderen','Regionally Extinct (REX)')))
+
+```
+```{r}
+write_csv(vbp_list_non_validated_red_lists_flanders_threat, here::here("datasets", "non_validated_red_lists_vlaanderen", "data", "processed", "vbp_non_validated_red_lists_flanders_threat.csv"), na = "")
 ```
 
