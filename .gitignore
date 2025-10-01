@@ -68,3 +68,7 @@ rsconnect/
 *.zip
 
 
+datasets/provinciaal_belangrijke_soorten_antwerpen/data/processed/provinciaal_belangrijke_soorten_antwerpen.csv
+datasets/provinciaal_belangrijke_soorten_antwerpen/data/processed/provinciaal_belangrijke_soorten_antwerpen2021.csv
+datasets/provinciaal_belangrijke_soorten_limburg/data/processed/provinciaal_belangrijke_soorten_limburg.csv
+datasets/provinciaal_belangrijke_soorten_limburg/data/processed/provinciaal_belangrijke_soorten_limburg2021.csv
