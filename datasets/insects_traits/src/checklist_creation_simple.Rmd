@@ -1,0 +1,137 @@
+---
+title: "checklist_creation_vbp_tra"
+author: "Dimitri Brosens"
+date: "2024-08-01"
+output: html_document
+---
+
+# create species lists based on files that includes headers already
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries:
+
+```{r}
+library(tidyverse)      # To do data science
+library(tidylog)        # To provide feedback on dplyr functions
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(janitor)        # To clean input data
+library(readxl)         # To read Excel files
+library(digest)         # To generate hashes
+library(rgbif)          # To use GBIF services
+library(lubridate)      # to transform the date
+library(mapview)
+```
+
+# Read source data
+
+Create a data frame `input_data` from the source data:
+
+```{r}
+taxon <- read.csv(here::here("datasets", "insects_traits", "data", "raw", "taxon.txt"))
+```
+
+```{r}
+measurements <- read.csv(here::here("datasets", "insects_traits", "data", "raw", "measurements.txt"))
+```
+
+```{r}
+description <- read.csv(here::here("datasets", "insects_traits", "data", "raw", "description.txt"))
+```
+
+
+
+Preview data:
+
+```{r}
+taxon %>% head(n = 5)
+```
+```{r}
+description %>% head(n = 5)
+```
+
+```{r}
+measurements %>% head(n = 6)
+```
+
+# Join tables
+
+
+```{r}
+temp_join <- inner_join(taxon, description, by = 'taxonID')
+```
+
+```{r}
+# Brede versie van temp_join
+temp_wide <- temp_join %>%
+  pivot_wider(
+    id_cols = c(taxonID, scientificName, Kingdom, Phylum, Class, Order, Suborder, Family),
+    names_from = type,
+    values_from = description
+  )
+```
+
+```{r}
+measurements_wide <- measurements %>%
+  mutate(measurement_col = paste(measurementType, measurementUnit, sep = "_")) %>%
+  pivot_wider(
+    id_cols = taxonID,
+    names_from = measurement_col,
+    values_from = measurementValue
+  )
+
+```
+
+
+
+```{r}
+insectTraits <- inner_join(temp_wide, measurements_wide, by = 'taxonID')
+```
+
+```{r}
+insectTraits <- unique(insectTraits)
+```
+
+
+```{r}
+insectTraits %>% head(n = 5)
+```
+
+
+
+### also use column Status for VBP
+
+
+
+```{r}
+insectTraits %<>% mutate(datasetID = "https://doi.org/10.15468/75g5z9")
+```
+
+```{r}
+insectTraits %<>% mutate(datasetName = "Northwestern European arthropod life histories and ecological traits")
+```
+```{r}
+insectTraits <- insectTraits %>%
+  select(-Family, -Order, -Class, -Phylum)
+```
+
+
+
+
+## hemiptera
+```{r}
+insectTraits_hemipterea <- insectTraits %>% filter(Order == 'Hemiptera')
+
+```
+
+## Write all data to folder
+## all
+
+```{r}
+write_csv(insectTraits, here::here("datasets", "insects_traits", "data", "processed", "VBP_insectTraits_Logghe.csv"), na = "")
+```
+
+
