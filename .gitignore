@@ -60,7 +60,11 @@ rsconnect/
 
 /datasets/invasieve_uitheemse_soorten_unielijst/data
 /datasets/subsidiebesluit/data/raw
-/datasets
+/datasets/EC
 
 *.xml
+*.csv
+*.txt
+*.zip
+
 
