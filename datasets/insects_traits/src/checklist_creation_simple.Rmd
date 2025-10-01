@@ -1,5 +1,5 @@
 ---
-title: "checklist_creation_vbp_tra"
+title: "checklist_creation_vbp_traits"
 author: "Dimitri Brosens"
 date: "2024-08-01"
 output: html_document
