@@ -1,0 +1,173 @@
+---
+title: "imagesimport"
+author: "Dimitri Brosens"
+date: "2025-02-28"
+output: html_document
+---
+
+Load libraries:
+
+```{r}
+library(tidyverse)      # To do data science
+library(tidylog)        # To provide feedback on dplyr functions
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(janitor)        # To clean input data
+library(readxl)         # To read Excel files
+library(digest)         # To generate hashes
+library(rgbif)          # To use GBIF services
+library(lubridate)      # to transform the date
+library(mapview)
+library(finch)
+```
+
+
+
+```{r}
+taxon <- dwca_read(here::here("datasets", "ImagesList", "data", "raw", "0000472-250227182430271.zip"))
+```
+
+```{r}
+head(taxon)
+```
+# Read the multimedia data
+```{r}
+
+multimedia_data <- read.delim(taxon$data[3], sep = "\t", stringsAsFactors = FALSE)
+head(multimedia_data)
+```
+
+#  Subset multimedia data
+
+```{r}
+multimedia_data_sub <- multimedia_data %<>%
+  select(gbifID, identifier)
+```
+
+```{r}
+multimedia_data_sub2 <- multimedia_data %<>%
+  select(gbifID, identifier, license, )
+```
+
+
+# Read the occurrence data
+```{r}
+
+occurrence_data <- read.delim(taxon$data[1], sep = "\t", stringsAsFactors = FALSE)
+head(occurrence_data)
+```
+```{r}
+checklist <- occurrence_data %>%
+  filter(license == "CC0_1_0" OR licence == "") %>% 
+  filter(taxonomicStatus == "ACCEPTED") %>% 
+  filter(taxonRank == "SPECIES") %>% 
+  group_by(scientificName) %>%
+  summarise(first_gbifID = first(gbifID),
+            first_license = first(license))
+```
+
+
+
+```{r}
+checklist <- occurrence_data %>%
+  select(scientificName, gbifID) %>%
+  distinct()
+```
+
+
+# Subset occurrence data
+
+
+```{r}
+occurrence_data_sub <- occurrence_data %<>%
+           filter(taxonomicStatus == 'ACCEPTED') %<>%
+           filter(taxonRank == 'SPECIES') %<>%
+           filter(license == 'CC0_1_0')
+```
+
+
+
+```{r}
+occurrence_data_sub <- occurrence_data_sub %<>%
+  select(gbifID, scientificName, license) 
+
+```
+# Convert gbifID to character in both dataframes
+```{r}
+
+occurrence_data_sub <- occurrence_data_sub %<>%
+  mutate(gbifID = as.character(gbifID))
+
+multimedia_data_sub <- multimedia_data %<>%
+  mutate(gbifID = as.character(gbifID))
+```
+
+
+
+# Combine data using occurrenceID
+```{r}
+
+combined_data <- occurrence_data_sub %<>%
+  left_join(multimedia_data_sub, by = "gbifID")
+
+# Inspect the combined data
+head(combined_data)
+```
+# Filter rows that contain image URLs
+
+```{r}
+species_image_data <- combined_data %>%
+  filter(!is.na(identifier))
+```
+# Select one image URL per gbifID
+
+```{r}
+checklist <- occurrence_data %<>% 
+  select(scientificName) %<>%
+  group_by(scientificName)
+```
+```{r}
+checklist <- occurrence_data %>%
+  select(scientificName) %>%
+  distinct()
+```
+```{r}
+checklist <- occurrence_data %>%
+  select(scientificName, gbifID) %>%
+  distinct()
+```
+
+
+
+```{r}
+species_image_data <- species_image_data %>%
+  group_by(scientificName) %>%
+  summarise(
+    gbifID = first(gbifID),  # Include the first gbifID for each species
+    image_url = first(identifier)
+  )
+```
+
+
+```{r}
+species_image_data <- species_image_data %<>%
+  filter(!is.na(image_url)) %>%
+  filter(gbifID != '1147212140') %>%
+  filter(gbifID != '1321341566') %>%
+  filter(gbifID != '1322717016') 
+  
+```
+```
+
+
+
+# Inspect the result
+
+```{r}
+head(gbif_image_data)
+```
+
+```{r}
+write_csv(species_image_data, here::here("datasets", "ImagesList", "data", "processed", "species_images_VBP.csv"), na = "")
+```
+

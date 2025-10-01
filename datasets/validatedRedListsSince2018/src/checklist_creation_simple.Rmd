@@ -1,0 +1,244 @@
+---
+title: "checklist_creation_vbp"
+author: "Dimitri Brosens"
+date: "2024-08-01"
+output: html_document
+---
+
+# create species lists based on files that includes headers already
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries:
+
+```{r}
+library(tidyverse)      # To do data science
+library(tidylog)        # To provide feedback on dplyr functions
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(janitor)        # To clean input data
+library(readxl)         # To read Excel files
+library(digest)         # To generate hashes
+library(rgbif)          # To use GBIF services
+library(lubridate)      # to transform the date
+library(mapview)
+```
+
+# Read source data
+
+Create a data frame `input_data` from the source data:
+
+```{r}
+vbp_list_validated_red_lists_flanders2018 <- read_excel(here::here("datasets", "validatedRedListsSince2018", "data", "raw", "ValidatedRedListsSince2018.xlsx"))
+```
+
+
+```{sql eval=FALSE, connection=, include=FALSE}
+
+select *
+from [dbo].[vw_Taxonlijstitem_detail]
+where LaatsteVersie = 1
+AND PublicatieJaar > 2018
+AND Lijst LIKE '%rode%'
+
+
+SELECT *
+FROM [dbo].[vw_Taxonlijstitem_detail] d
+INNER JOIN [dbo].[vw_Taxonlijst] l
+    ON d.Lijst = l.Taxonlijst
+   AND d.PublicatieJaar = l.PublicatieJaar
+WHERE d.LaatsteVersie = 1
+  AND d.PublicatieJaar > 2018
+  AND d.Lijst LIKE '%rode%';
+  
+  --geeft zelfde resultaat
+
+
+```
+
+
+
+Preview data:
+
+```{r}
+vbp_list_validated_red_lists_flanders2018 %>% head(n = 5)
+```
+
+
+
+### column mapping
+
+
+
+
+### also use column Status for VBP
+
+```{r}
+vbp_list_validated_red_lists_flanders2018 %<>% mutate(threatStatus = RLC_gepubliceerd)
+```
+```{r}
+vbp_list_validated_red_lists_flanders2018 %<>% mutate(status = RLC_gepubliceerd)
+```
+
+```{r}
+vbp_list_validated_red_lists_flanders2018$status <- iconv(vbp_list_validated_red_lists_flanders2018$status, from = "", to = "UTF-8")
+
+```
+
+
+
+
+### translate threatstatus to eng
+
+
+```{r}
+vbp_list_validated_red_lists_flanders2018 <- vbp_list_validated_red_lists_flanders2018 %>%
+  mutate(status = str_trim(status),   # witruimte verwijderen
+         status = recode(status,
+                         'Niet geëvalueerd' = 'Not Evaluated (NE)',
+                         'Niet ge�valueerd' = 'Not Evaluated (NE)',  # encoding fallback
+                         'Niet-geëvalueerd' = 'Not Evaluated (NE)',
+                         'Onvoldoende gekend' = 'Data Deficient (DD)',
+                         'Onvoldoende data' = 'Data Deficient (DD)',
+                         'Uitgestorven in Vlaanderen' = 'Regionally Extinct (RE)',
+                         'Regionaal uitgestorven' = 'Regionally Extinct (RE)',
+                         'Met verdwijning bedreigd' = 'Critically Endangered (CR)',
+                         'Ernstig bedreigd' = 'Critically Endangered (CR)',
+                         'Bedreigd' = 'Endangered (EN)',
+                         'Kwetsbaar' = 'Vulnerable (VU)',
+                         'Bijna in gevaar' = 'Near Threatened (NT)',
+                         'Achteruitgaand' = 'Declining',
+                         'Niet in gevaar' = 'Least Concern (LC)',
+                         'Momenteel niet in gevaar' = 'Least Concern (LC)'
+
+         ))
+```
+
+```{r}
+head(vbp_list_validated_red_lists_flanders2018)
+```
+
+## geen idee hier waarom ik dit deed
+
+De dataframe vbp_list_validated_red_lists_flanders_threat2018 wordt vervangen door een versie waarin alleen de soorten overblijven die in een Rode Lijst-bedreigingscategorie zitten (bedreigd, kwetsbaar, met verdwijning bedreigd, uitgestorven in Vlaanderen, enz.).
+ok, was om lijst van bedreigede soorten te maken voor in het area report
+
+```{r}
+vbp_list_validated_red_lists_flanders_threat2018 <- vbp_list_validated_red_lists_flanders2018 %>%
+  filter(trimws(tolower(status)) %in% tolower(c('Critically Endangered (CR)', 'Endangered (EN)', 'Vulnerable (VU)', 
+                                                'Near Threatened (NT)', 'bedreigd', 'Kwetsbaar', 'Met verdwijning bedreigd','Uitgestorven in Vlaanderen','Regionally Extinct (REX)')))
+
+```
+### mapping tot iets redelijk
+
+
+
+
+
+## AMPHIBIA
+```{r}
+vbp_list_validated_red_lists_flanders2018_amphibia <- vbp_list_validated_red_lists_flanders2018 %>% filter(class == 'Amphibia')
+
+```
+## squamata
+
+```{r}
+vbp_list_validated_red_lists_flanders2018_squamata <- vbp_list_validated_red_lists_flanders2018 %>% filter(class == 'Squamata')
+
+```
+
+
+## AVES
+
+```{r}
+vbp_list_validated_red_lists_flanders2018_aves <- vbp_list_validated_red_lists_flanders_threat2018 %>% filter(class == 'Aves')
+```
+
+## INSECTA
+```{r}
+vbp_list_validated_red_lists_flanders_2018insecta <- vbp_list_validated_red_lists_flanders2018 %>% filter(class == 'Insecta')
+``` 
+
+## MAMMALIA
+
+```{r}
+vbp_list_validated_red_lists_flanders_2018mammalia <- vbp_list_validated_red_lists_flanders2018 %>% filter(class == 'Mammalia')
+``` 
+## PLANTS
+
+```{r}
+vbp_list_validated_red_lists_flanders_2018plants <- vbp_list_validated_red_lists_flanders2018 %>% filter(kingdom == 'Plantae')
+``` 
+## fish
+
+```{r}
+vbp_list_validated_red_lists_flanders_2018fish <- vbp_list_validated_red_lists_flanders2018 %>% filter(source == 'Verreycken_etal_2014')
+``` 
+
+
+
+```{r eval=FALSE, include=FALSE}
+vbp_list_validated_red_lists_flanders_amphibia <- vbp_list_validated_red_lists_flanders %>%
+  filter(class == "Amphibia", threatStatus != "Least Concern (LC)")
+```
+
+## Write all data to folder
+## all
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders2018, here::here("datasets", "validatedRedListsSince2018", "data", "processed", "vbp_validated_red_lists_flanders2018.csv"), na = "")
+```
+
+
+## write all 'bedreigd' to folder
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_threat2018, here::here("datasets", "validatedRedListsSince2018", "data", "processed", "vbp_validated_red_lists_flanders_threat2018.csv"), na = "")
+```
+
+
+
+## Amphibia
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_amphibia, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_amphibia.csv"), na = "")
+```
+
+## squamata
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_amphibia, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_squamata.csv"), na = "")
+```
+
+
+## Aves
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_aves, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_aves.csv"), na = "")
+```
+
+## Mammalia
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_mammalia, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_mammalia.csv"), na = "")
+```
+
+## Insecta
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_insecta, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_insecta.csv"), na = "")
+```
+
+## plants
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_plants, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_plants.csv"), na = "")
+```
+
+## fish
+
+```{r}
+write_csv(vbp_list_validated_red_lists_flanders_fish, here::here("datasets", "validated_red_lists_flanders", "data", "processed", "vbp_validated_red_lists_flanders_fish.csv"), na = "")
+```
